@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "id": "SPN-2009-00443",
+      "label": "Project",
+      "properties": {
+        "name": "Panoche Valley Solar Facility",
+        "location": "San Benito County, CA",
+        "date": "December 2015"
+      }
+    },
+    {
+      "id": "DOC-001-2",
+      "label": "Project",
+      "properties": {
+        "name": "Final Environmental Impact Statement for Panoche Valley Solar Facility",
+        "location": "San Benito County, California",
+        "date": null
+      }
+    },
+    {
+      "id": "unique-document-id-001",
+      "label": "Project",
+      "properties": {
+        "name": "Final EIS",
+        "location": "USACE website",
+        "date": null
+      }
+    },
+    {
+      "name": "US Fish & Wildlife Service",
+      "label": "Organization",
+      "properties": {
+        "type": "Federal",
+        "role": "NEPA Lead Federal Agency",
+        "isApplicant": false
+      }
+    },
+    {
+      "name": "US Army Corps of Engineers",
+      "label": "Organization",
+      "properties": {
+        "type": "Federal",
+        "acronym": "USACE",
+        "fullName": "US Army Corps of Engineers",
+        "role": "Lead Federal Agency",
+        "isApplicant": false
+      }
+    },
+    {
+      "name": "Panoche Valley Solar, LLC",
+      "label": "Organization",
+      "properties": {
+        "type": "Private",
+        "role": "Applicant",
+        "isApplicant": true
+      }
+    },
+    {
+      "name": "Pacific Gas and Electric Company",
+      "label": "Organization",
+      "properties": {
+        "type": "Private",
+        "role": "Contractor",
+        "isApplicant": false
+      }
+    },
+    {
+      "name": "Southern California Edison",
+      "label": "Organization",
+      "properties": {
+        "type": "Private",
+        "role": "Power Purchaser",
+        "isApplicant": false
+      }
+    },
+    {
+      "name": "US Environmental Protection Agency",
+      "label": "Organization",
+      "properties": {
+        "type": "Federal",
+        "acronym": "EPA",
+        "fullName": "US Environmental Protection Agency",
+        "role": "Regulatory Body",
+        "isApplicant": false
+      }
+    },
+    {
+      "name": "Environmental Management and Planning Solutions Inc",
+      "label": "Organization",
+      "properties": {
+        "type": "Private",
+        "role": "Consultant",
+        "isApplicant": false
+      }
+    },
+    {
+      "name": "Lisa Gibson",
+      "label": "Person",
+      "properties": {
+        "email": "Lisa.M.Gibson2@usace.army.mil",
+        "phone": "(916) 557-5288",
+        "role": "Contact for more information on the Final EIS"
+      }
+    },
+    {
+      "name": "Ms. Lisa Gibson",
+      "label": "Person",
+      "properties": {
+        "email": "Lisa.M.Gibson2@usace.army.mil",
+        "phone": null,
+        "role": "Contact Person"
+      }
+    },
+    {
+      "content": "The Draft EIS was distributed for public review and comment from September 11, 2015 to October 26, 2015. On October 6, 2015 and October 7, 2015, the USACE held public meetings on the Draft EIS. This Final EIS responds to the substantive comments received on the Draft EIS during the public review and comment period.",
+      "label": "Comment",
+      "properties": {
+        "date": "2015-10",
+        "sentiment": null
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "startNode": "SPN-2009-00443",
+      "endNode": "US Fish & Wildlife Service",
+      "type": "HAS_ORGANIZATION"
+    },
+    {
+      "startNode": "SPN-2009-00443",
+      "endNode": "US Army Corps of Engineers",
+      "type": "HAS_ORGANIZATION"
+    },
+    {
+      "startNode": "DOC-001-2",
+      "endNode": "US Fish and Wildlife Service",
+      "type": "HAS_ORGANIZATION"
+    },
+    {
+      "startNode": "DOC-001-2",
+      "endNode": "US Army Corps of Engineers",
+      "type": "HAS_ORGANIZATION"
+    },
+    {
+      "startNode": "DOC-001-2",
+      "endNode": "Panoche Valley Solar, LLC",
+      "type": "HAS_ORGANIZATION"
+    },
+    {
+      "startNode": "DOC-001-2",
+      "endNode": "Pacific Gas and Electric Company",
+      "type": "HAS_ORGANIZATION"
+    },
+    {
+      "startNode": "DOC-001-2",
+      "endNode": "Southern California Edison",
+      "type": "HAS_ORGANIZATION"
+    },
+    {
+      "startNode": "unique-document-id-001",
+      "endNode": "US Environmental Protection Agency",
+      "type": "HAS_ORGANIZATION"
+    },
+    {
+      "startNode": "SPN-2009-00443",
+      "endNode": "Lisa Gibson",
+      "type": "HAS_PERSON"
+    },
+    {
+      "startNode": "unique-document-id-001",
+      "endNode": "Ms. Lisa Gibson",
+      "type": "HAS_PERSON"
+    },
+    {
+      "startNode": "SPN-2009-00443",
+      "endNode": "The Draft EIS was distributed for public review and comment from September 11, 2015 to October 26, 2015. On October 6, 2015 and October 7, 2015, the USACE held public meetings on the Draft EIS. This Final EIS responds to the substantive comments received on the Draft EIS during the public review and comment period.",
+      "type": "HAS_COMMENT"
+    }
+  ]
+}
