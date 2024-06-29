@@ -1,0 +1,4642 @@
+[
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "US Fish & Wildlife Service",
+          "contact": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "PANOCHE VALLEY SOLAR FACILITY",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "US Army Corps of Engineers",
+      "contact": {
+        "name": "Lisa Gibson",
+        "email": "Lisa.M.Gibson2@usace.army.mil",
+        "phone": "(916) 557-5288"
+      }
+    },
+    "CooperatingAgency": {
+      "name": "US Fish and Wildlife Service"
+    },
+    "ProjectDetails": {
+      "title": "Final Environmental Impact Statement (EIS) for Panoche Valley Solar Facility, San Benito County, California",
+      "id": "SPN-2009-00443",
+      "abstract": "Panoche Valley Solar, LLC (the applicant) is proposing to construct the Panoche Valley Solar Facility, a 247 megawatt photovoltaic solar generating facility in eastern unincorporated San Benito County, California. The proposed project site contains ephemeral drainages that have been determined to be jurisdictional waters of the U.S. Construction of the proposed project requires a Department of the Army permit from the US Army Corps of Engineers to discharge fill material into these waters, in accordance with Section 404 of the Clean Water Act. The US Army Corps of Engineers, as the lead agency responsible for complying with the National Environmental Policy Act, made a preliminary determination that the proposed project constitutes a major federal action that may result in significant impacts on the environment, and that the preparation of an environmental impact statement was required. The proposed facility would consist of a solar field of ground-mounted photovoltaic modules; an electrical collection system that converts generated power from direct current to alternating current and delivers it to a project substation; and a project substation that collects and converts the generated power from 34.5 to 230 kilovolts. The electricity would then be delivered, via a new on-site Pacific Gas and Electric Company switching station, to its existing Moss Landing-Panoche 230 kilovolt transmission line. Generated electricity would be sold to Southern California Edison under a long-term power purchase agreement."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE",
+      "contact": {
+        "name": "Lisa Gibson",
+        "email": "Lisa.M.Gibson2@usace.army.mil",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "SPN\u20132009\u201300443",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string",
+                "format": "email"
+              },
+              "phone": {
+                "type": "string"
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "United States Environmental Protection Agency",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "California Department of Water Resources"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "US Army Corps of Engineers",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "US Fish and Wildlife Service"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "Panoche Valley Solar, LLC is proposing to construct a photovoltaic (PV) generating facility in eastern unincorporated San Benito County, California. The project involves jurisdictional waters of the U.S. and requires a permit from the US Army Corps of Engineers. The EIS has been prepared in accordance with NEPA regulations. The US Fish and Wildlife Service is a cooperating agency and provided a biological opinion included in Appendix G of this Final EIS."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "USACE",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": "California Department of Fish and Wildlife"
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": "The applicant submitted a permit application to the USACE to construct a utility-scale, solar PV energy generating facility in the Panoche Valley region of San Benito County. The power generated by this project would assist the State of California and its retail suppliers of electricity meet California\u2019s mandatory Renewable Portfolio Standard (RPS)."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "US Army Corps of Engineers (USACE)",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "US Environmental Protection Agency (EPA)"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The overall project purpose is to construct an approximately 247 MWAC solar PV energy generating facility and associated transmission and support facilities in the west-central portion of California\u2019s Central Valley. This EIS presents information on the potential impacts of issuing a permit to construct the applicant\u2019s preferred alternative proposed project."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "This EIS describes the affected environment, analyzes potential significant environmental impacts, identifies ways that these impacts could be mitigated, characterizes cumulative impacts, and provides the USACE with environmental information for decision making. The focus includes the direct and indirect effects of constructing a solar facility, including short-term effects from construction and long-term effects from operational and maintenance activities, which are considered within the NEPA scope of analysis. The decommissioning of the proposed solar facility is not included in the current scope of analysis."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "USFWS and CDFW"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The EIS evaluates the proposed Panoche Valley Solar Facility project, discussing alternatives including no action and considering environmental impacts in compliance with NEPA."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "USACE"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project involves the construction of a 247 MW solar facility at the Panoche Valley site. Two no action alternatives are considered: (1) No Build \u2013 where the solar facility is not developed, and (2) No USACE Permit \u2013 where the facility is built avoiding waters of the U.S., eliminating the need for a USACE permit."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The applicant is proposing to construct an approximately 247 MW PV generating facility on 2,154 acres (project footprint). The project footprint is in unincorporated eastern San Benito County, California, approximately 30 miles south of Los Banos and 60 miles west of Fresno. The site is 2 miles from the Fresno County line and 15 miles west of Interstate 5 and the San Joaquin Valley. The solar facility and all associated land would be on property that is controlled by the applicant."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": "The proposed solar facility would consist of a solar field of ground-mounted PV modules, an underground electrical collection system, a project substation, and a switching station. Key features include various project components such as solar arrays, project perimeter roads, substations, and grading areas."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": "The project involves the conservation of 24,176 to 25,618 acres of land to maintain and enhance habitat conditions for federal and state listed species. This includes Valley Floor Conservation Lands and On-Site Conservation Lands, as well as the permanent conservation of the Valadeao Ranch Conservation Lands (10,772 acres) and the Silver Creek Ranch Conservation Lands (10,890 acres). The conservation is proposed as mitigation for the construction and operation of a solar facility with an output of approximately 339 megawatts of direct-current power or 247 megawatts of alternating current power. The power will be delivered via the PG&E Moss Landing-Panoche 230 kV transmission line."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "San Benito County",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "Southern California Edison"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility project involves interconnecting the proposed solar facility with the PG&E Moss Landing-Panoche 230 kV transmission line. PG&E would implement primary and secondary telecommunication upgrades to ensure system reliability. The project includes measures to minimize environmental impacts and is subject to CEQA approval and monitoring by San Benito County."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility is a proposed project involving the construction of a solar facility. The project includes emergency egress and access roads that would cross various creeks and drainages, necessitating Department of the Army permitting under Section 404(b)(1) of the Clean Water Act. The project aims to avoid, minimize, and compensate for impacts on waters of the U.S."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "USACE",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": "Under Alternative C, a 247 MW photovoltaic solar facility with project features similar to those described under Alternatives A and B would be constructed on 2,500 acres within the Westlands Competitive Renewable Energy Zone (CREZ) in Fresno and Kings Counties."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "In the Federal Register on July 19, 2012 (Fed. Reg. Vol. 77, No. 139, p. 42488), the USACE initiated a 30-day scoping period for this EIS; this period was extended by nearly 20 days to end on September 7, 2012. The NOI was published in the Hollister Free Lance on July 31 and August 3, 2012. Also, it was mailed to federal, state, and local agencies, organizations, and individuals known to have an interest in the project. The NOI invited the public to provide information on environmental impacts that could occur as a result of the proposed project as proposed in 2012. Copies of these materials are in Appendix A of this EIS. Public scoping meetings were held on August 21, 2012, at the Panoche School in Paicines, California, and on August 22, 2012, at the Veterans Memorial Building in Hollister, California. The meetings began with an open house that served as an informal question and answer session, followed by a formal presentation and oral comments. Eleven people attended the scoping meeting in Paicines, and six entered comments into the public record; thirty people attended the scoping meeting in Hollister, and nine entered comments into the public record. A court reporter recorded the formal presentations and oral comments to accurately capture the information presented at the meetings. The scoping period ended on September 7, 2012. Twenty written comment letters were submitted by the following agencies, tribes, and organizations and by 12 individuals (in all, 21 individuals commented with either written or oral comments): US Environmental Protection Agency, Valentin Lopez, Amah Mutsun Tribal Band of Costanoan/Ohlone Indians, Luis Alejo, Assembly Member, 28th District, California Audubon Society, Center for Biological Diversity, Defenders of Wildlife, Santa Clara Valley Audubon Society, Citizens Committee to Complete the Refuge, Sierra Club, Loma Prieta Chapter. The issues raised in the oral and written comments are presented in Table ES-3Table ES-2. Approximately a third of the comments focused on biological resource issues. The comments received during scoping were similar in substance and nature to those received during the USACE public noticing periods in 2010 and 2011."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The executive summary for the Panoche Valley Solar Facility Final EIS in December 2015 highlights various scoping issues identified during the public comment period. Key issues include the impact on biological resources, water resources, evaluation of alternatives, and socio-economic effects. Specific concerns were raised regarding sensitive species, habitat fragmentation, water usage, mitigation plans, alternative site locations, and the economic impact on local communities."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The provided text lists various scoping issues related to the Panoche Valley Solar Facility found in the Final Environmental Impact Statement (EIS) of December 2015. The table summarizes public comments regarding concerns over public health and safety, noise, air quality, cumulative impacts, project description and design, and fire risks related to the solar facility project."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document summarizes issues and comments received regarding the Panoche Valley Solar Facility project, including concerns about cultural resources, traffic and transportation, purpose and need, general mitigation, agriculture, visual resources, climate change, and decommissioning."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "EPA"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility Final EIS addresses various scoping issues and public review processes including impact analysis, land use and recreation, environmental justice, and soils and geology."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "US Army Corps of Engineers",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "US Environmental Protection Agency"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "During the public review period, interested parties were invited to comment on the Draft EIS through submission of written and verbal comments. The 45-day public review period for the Draft EIS ran from September 11, 2015 to October 26, 2015. Two public meetings were held in the project area, during which representatives from the USACE, the project applicant, and the EIS preparer were available to answer questions. Comments from various agencies and organizations were received focusing mainly on biological resource issues."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "",
+      "abstract": "The transcript of the public meeting, and the USACE\u2019s responses to the public comments received on the Draft EIS. Appendix A contains copies of the public noticing materials on the Draft EIS. This document also provides a summary of the potential environmental effects of various project alternatives. These measures include applicant-proposed measures, EIR mitigation measures, and PG&E avoidance and minimization measures committed to by the project applicant and required as conditions of approval by San Benito County."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The table in the executive summary discusses the environmental impacts of various alternatives for the Panoche Valley Solar Facility project, including no action, the applicant\u2019s proposed project, and on-site and off-site alternatives. Impacts on aesthetics during construction are considered less than significant across all alternatives, with measures in place to manage dust, vegetation removal, and night sky impacts."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": "Summary of Environmental Impacts: The document discusses the environmental impacts related to different alternatives for the Panoche Valley Solar Facility project, including aesthetics, dust generation, lighting, and cumulative effects. Various alternatives and their long-term impacts on the environment are considered, with an overall assessment that impacts would be less than significant."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The document presents the Final Environmental Impact Statement (EIS) for the Panoche Valley Solar Facility. It includes an analysis of various alternative actions including the No Action Alternative, Alternative A, B, and C. The primary focus is on agricultural resources and the direct and indirect impacts of each alternative on these resources. It also discusses the conservation measures to offset the loss of agricultural land."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document outlines different alternatives' environmental impacts related to the Panoche Valley Solar Facility project. Key aspects include agricultural land use, air quality impacts, and maintenance activities."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document provides a summary of environmental impacts for different alternatives regarding the Panoche Valley Solar Facility. Key points include emissions associated with PG&E telecommunication upgrade actions, impacts on air quality, climate change impacts, and conservation measures."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "This section summarizes the environmental impacts of various alternatives for the Panoche Valley Solar Facility project, including the No Action Alternative, Alternative A (Applicant\u2019s Proposed Project), Alternative B (On-site Alternative), and Alternative C (Off-site Alternative, Westlands CREZ). The primary focus is on greenhouse gas impacts, vegetation removal, carbon uptake, operational emissions, and their alignment with California\u2019s environmental standards and regulations."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "default": ""
+              },
+              "email": {
+                "type": "string",
+                "format": "email",
+                "default": ""
+              },
+              "phone": {
+                "type": "string",
+                "default": ""
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "default": "Panoche Valley Solar Facility Final EIS"
+          },
+          "id": {
+            "type": "string",
+            "default": ""
+          },
+          "abstract": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The document summarizes the environmental impacts of various alternatives for the Panoche Valley Solar Facility project, including the no action option, the proposed project, on-site alternative, and off-site alternative. It evaluates direct, indirect, and cumulative impacts on vegetation, aquatic resources, and other environmental aspects."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": "The project involves different alternatives to avoid environmental impacts, including construction buffers for vernal pool fairy shrimp, stormwater pollution prevention, erosion control measures, and fugitive dust abatement measures. The main goal is to preserve vegetation communities while minimizing direct and indirect impacts on sensitive habitats."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "Summary of Environmental Impacts for various project alternatives. The impacts range from less than significant for no action alternatives to various impacts due to construction and telecommunication upgrades."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": "This document provides a summary of environmental impacts for various project alternatives for the Panoche Valley Solar Facility. Highlights include assessments of wildlife impacts under different scenarios including the No Action alternative, Alternative A, Alternative B, and Alternative C."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": "The document discusses various alternatives for the Panoche Valley Solar Facility project, assessing the environmental impacts of each alternative. Alternatives include the No Action (No Build) Alternative, Alternative A (Applicant\u2019s Proposed Project Preferred Alternative), Alternative B (On-site Alternative), and Alternative C (Off-site Alternative, Westlands CREZ). The impacts on wildlife and habitat loss due to construction, operational, and maintenance activities are analyzed. Mitigation measures are recommended to ensure that impacts remain less than significant."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document provides a detailed summary of environmental impacts for different project alternatives related to the Panoche Valley Solar Facility. It evaluates the implications on special status species and the cumulative environmental impacts associated with each alternative."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "This document provides a summary of environmental impacts for different alternatives related to the Panoche Valley Solar Facility. It includes observations regarding various special status species and the conservation measures proposed to mitigate any adverse effects due to construction and operational activities. The no action (no permit) alternative has been discussed along with Alternatives A, B, and C, highlighting their respective impacts on the environment and species present within the project area."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "ES-36",
+      "abstract": "The document is a summary of the environmental impacts of the Panoche Valley Solar Facility project. It includes an analysis of various alternatives, including a no-action alternative and different site and construction options. The evaluation covers impacts on special status species, operational and maintenance activities, cultural resources, and tribal consultation. Overall, the document concludes that cumulative impacts would be less than significant."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "USACE",
+          "contact": {
+            "name": "Unknown",
+            "email": "",
+            "phone": ""
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": "California Historic Preservation Office"
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": "The document summarizes the various environmental impacts of different alternatives for the Panoche Valley Solar Facility project. Alternatives include No Action, No USACE Permit, Applicant's Proposed Project (Preferred Alternative), On-site Alternative, and Off-site Alternative (Westlands CREZ). The summary discusses potential impacts on cultural resources and the mitigation measures proposed under each alternative."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "Summary of environmental impacts for the Panoche Valley Solar Facility Final EIS. It discusses alternatives including no action, and the anticipated impacts on the historic landscape setting, cultural resources, and cumulative impacts under NEPA."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The summarized impacts of various alternatives (No Action, Applicant\u2019s Proposed Project, On-site Alternative, Off-site Alternative) for the Panoche Valley Solar Facility. It includes considerations of soil conditions, adherence to building codes, potential for liquefaction, and recommendations for mitigation measures."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "default": ""
+              },
+              "email": {
+                "type": "string",
+                "format": "email",
+                "default": ""
+              },
+              "phone": {
+                "type": "string",
+                "default": ""
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "default": "Panoche Valley Solar Facility Final EIS"
+          },
+          "id": {
+            "type": "string",
+            "default": ""
+          },
+          "abstract": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "ES-42",
+      "abstract": "The document discusses various alternatives for the Panoche Valley Solar Facility and their potential environmental impacts, focusing on aspects such as flooding, drainage patterns, water quality, and groundwater supply. Various regulatory requirements and measures are outlined to minimize environmental impacts."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility Final Environmental Impact Statement (EIS) summarizes the environmental impacts of various alternatives ranging from the No Action (No Build) Alternative, No Action (No USACE Permit) Alternative, Alternative A (Applicant\u2019s Proposed Project Preferred Alternative), Alternative B (On-site Alternative), to Alternative C (Off-site Alternative, Westlands CREZ). Each alternative is evaluated based on its impact on land use, ownership, and planning, with most impacts assessed as less than significant. Measures are in place to ensure any operational impacts are mitigated to less than significant levels."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": "The mitigation measures for the Panoche Valley Solar Facility involve incorporation into the no action (no permit) alternative, creating permanent conservation easements on the Valadeao Ranch and Silver Creek Ranch, and ensuring open space value and rural character preservation in perpetuity. Operational and maintenance activities are not expected to disrupt surrounding land uses. Impacts are generally considered less than significant."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The executive summary discusses various alternatives and their respective impacts on socioeconomics and land use for the Panoche Valley Solar Facility project."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The document discusses the summary of environmental impacts and environmental justice considerations for the proposed Panoche Valley Solar Facility. It compares the impacts of constructing the facility and various alternatives, including no build options and on-site or off-site alternatives. It notes that the project would have minor impacts on local employment and population, with less than significant cumulative impacts on housing availability and cost. Additionally, the document mentions that there are no significant disproportionate adverse impacts on minority or low-income populations from the proposed development."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "This summary discusses the environmental impacts of the Panoche Valley Solar Facility and various alternatives, including the No Action alternative, Applicant\u2019s Proposed Project, On-site Alternative, and Off-site Alternative (Westlands CREZ). Key considerations include impacts on children, minority populations, and issues of tribal concern, with measures proposed to mitigate these impacts, resulting in less than significant cumulative impacts."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document discusses the summary of environmental impacts under different alternatives for the Panoche Valley Solar Facility, focusing on noise impacts among others. The alternatives considered include no action, the applicant's proposed project (the preferred alternative), on-site alternative, and off-site alternative at Westlands CREZ. It provides a detailed analysis of the noise impacts from construction and operational activities, concluding that under all alternatives, the impacts would be less than significant."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document discusses various alternatives for the Panoche Valley Solar Facility, including No Action (No Build), No Action (No USACE Permit), Alternative A (Applicant\u2019s Proposed Project/Preferred Alternative), Alternative B (On-site Alternative), and Alternative C (Off-site Alternative, Westlands CREZ). It evaluates the environmental impacts, particularly focusing on noise impacts during construction and operation phases. Measures to mitigate noise impacts are mentioned, alongside cumulative impacts and compliance with county noise standards."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The summary of environmental impacts for the Panoche Valley Solar Facility Final EIS includes assessments of various project alternatives such as No Action, No USACE Permit, Applicant\u2019s Proposed Project (Preferred Alternative), On-site Alternative, and Off-site Alternative (Westlands CREZ). The impacts on noise, public health and safety, and hazardous materials are considered less than significant across alternatives, with measures in place to manage potential risks and ensure compliance with relevant regulations."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The document presents a Summary of Environmental Impacts for the Panoche Valley Solar Facility, outlining measures to minimize health, safety, and environmental risks during operational and maintenance activities. These measures include handling hazardous materials in compliance with OSHA standards, implementing Spill Prevention Plans, ensuring fire protection, and providing 24-hour on-site security to mitigate risks. Overall, the impacts are assessed to be less than significant with the adoption of these measures."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "Summary of Environmental Impacts: Several alternatives were assessed, including No Action, No USACE Permit, Applicant\u2019s Proposed Project (Preferred Alternative), On-site Alternative, and Off-site Alternative (Westlands CREZ). The findings indicated that with implemented security measures, enhanced fire safety protocols, reduction in operational impact on soils, and minimization of exposure to hazardous materials, the cumulative impacts on public health, safety, and environment would be less than significant."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The document summarizes the environmental impacts of various alternatives for the Panoche Valley Solar Facility project, including the No Action, No USACE Permit, Applicant\u2019s Proposed Project (Preferred Alternative), On-site Alternative, and Off-site Alternative (Westlands CREZ). Key impacts discussed involve traffic and transportation, with emphasis on construction-related indirect impacts and mitigation measures."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "United States Army Corps of Engineers"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The summary discusses various alternatives to the Panoche Valley Solar Facility project, emphasizing the no action (no permit) alternative and its impacts on transportation infrastructure, emergency vehicle response, and traffic operations. Mitigation measures for road deterioration and safety are also considered."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document includes a summary of environmental impacts for various alternatives including No Action alternatives, the Applicant\u2019s Proposed Project Preferred Alternative, and other site alternatives. It discusses potential traffic disruptions during construction and concludes that long-term impacts on transportation would be less than significant."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "US Army Corps of Engineers",
+          "contact": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": "US Fish and Wildlife Service"
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": "Panoche Valley Solar, LLC (the applicant) is proposing to construct the Panoche Valley Solar Facility, a photovoltaic (PV) generating facility in eastern unincorporated San Benito County, California. The project requires a Department of the Army permit from the US Army Corps of Engineers to discharge fill material into jurisdictional waters of the U.S., in accordance with Section 404 of the Clean Water Act. The USACE determined that the project constitutes a major federal action that may result in significant impacts on the environment and required an environmental impact statement (EIS). The US Fish and Wildlife Service (USFWS) is a cooperating agency responsible for issuing a biological opinion on the proposed project under Section 7 of the Endangered Species Act."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "California Department of Fish and Wildlife (CDFW)",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "Hollister Fire Department"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The applicant is proposing to construct an approximately 247 megawatt (MW) PV generating facility on 2,154 acres in unincorporated eastern San Benito County, California. The facility aims to generate approximately 339 megawatts of direct-current (MWDC) power, or 247 megawatts of alternating current (MWAC) power. Power will be delivered via the PG&E Moss Landing-Panoche 230 kilovolt (kV) transmission line."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The proposed solar facility would consist of a solar field of ground-mounted PV modules, an underground electrical collection system, a project substation, and a switching station. The project aims to deliver 247 MWAC of power annually for 20 years starting in 2019. It includes conservation efforts for lands outside of the project footprint to enhance habitat conditions for federal and state listed species, preserving areas such as Valley Floor Conservation Lands, on-site conservation lands, Valadeao Ranch Conservation Lands, Silver Creek Ranch Conservation Lands, and at least 1,000 acres of Additional Conservation Lands."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "Final EIS",
+      "abstract": "The project, known as the Proposed Project Applicant\u2019s Preferred Alternative, involves the construction of an approximately 247 MW solar facility on 2,154 - 2,506 acres and will permanently preserve and manage 24,176 - 25,618 acres of conservation lands through conservation easements in San Benito County and western Fresno County."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The project involves the construction of solar arrays and associated infrastructure while implementing measures to avoid, minimize, or compensate for impacts on waters of the U.S. Various measures include eliminating or minimizing ephemeral stream channel crossings, minimizing roadway widths, minimizing ground disturbances, and compensating for unavoidable impacts through enhancement or restoration at nearby conservation lands."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility project has undergone multiple revisions to address environmental concerns raised by the public, USFWS, and CDFW. Originally proposed to be a 1,000 MWAC PV solar energy project developed on approximately 10,000 acres, it was first reduced to 420 MWAC on 4,700 acres and later to 399 MWAC to avoid biologically sensitive areas. The project includes enhancements of intermittent and ephemeral streams, creation of breeding ponds for California tiger salamander, and partial exclusion of livestock from Panoche Creek to restore native vegetation and riparian areas. A final EIR was released in September 2010 and a conditional use permit was approved in October 2010."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE, San Francisco District",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "San Francisco District"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project involves surveys and mitigation measures for blunt-nosed leopard lizard, giant kangaroo rat, and San Joaquin kit fox, as well as connections to the PG&E Moss Landing-Panoche 230 kV transmission line. It includes updates to EIR and compliance with environmental laws."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "Since submitting the permit applications in 2010, the applicant has revised the application to further avoid and minimize impacts on waters of the U.S. by reducing the number of proposed road crossings and eliminating impacts associated with utility lines. Additional changes include minimizing project impacts through further consultation with agencies and reducing the project footprint. The revised project footprint and on-site conservation lands are illustrated in Figure 1-2 in the Final EIS."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "US Army Corps of Engineers",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "US Environmental Protection Agency"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "Department of the Army permit application - USACE",
+      "abstract": "The applicant submitted a Department of the Army permit application to the USACE to construct the solar PV energy generating facility in the Panoche Valley region of San Benito County. The power generated by this project would assist the State of California and its retail suppliers of electricity to meet the mandatory Renewable Portfolio Standard (RPS). Additionally, the project would help the state meet targeted reductions in greenhouse gas emissions to 1990 levels by 2020."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "default": ""
+              },
+              "email": {
+                "type": "string",
+                "format": "email",
+                "default": ""
+              },
+              "phone": {
+                "type": "string",
+                "default": ""
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "default": "Panoche Valley Solar Facility"
+          },
+          "id": {
+            "type": "string",
+            "default": ""
+          },
+          "abstract": {
+            "type": "string",
+            "default": "The overall project purpose is to construct an approximately 247 MWAC solar PV energy generating facility and associated transmission and support facilities in the west-central portion of California's Central Valley (generally encompassing portions of San Benito, Merced, Madera, Fresno, and Kings Counties)."
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The USACE is the federal lead agency under NEPA for the Panoche Valley Solar Facility project. The focus of the environmental analysis for the project includes the direct and indirect effects of constructing a solar facility, its operational and maintenance activities, and possible effects on federally listed species. Decommissioning is not included in the current scope of analysis."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string",
+                "format": "email"
+              },
+              "phone": {
+                "type": "string"
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "USFWS"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project involves the construction and operation of a solar facility in Panoche Valley, with various federal, state, and local permits and authorizations required."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "San Benito County",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": "Detailed plans for the Panoche Valley Solar Facility, including various conservation and management plans required to meet regulatory standards."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The scoping period ended on September 7, 2012. Twenty written comment letters were submitted by various agencies, tribes, and organizations. Key issues raised during the scoping included biological resource impacts, habitat fragmentation, and the need for thorough analysis of mitigation measures."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "EPA",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document discusses various scoping issues raised by commenters regarding the Panoche Valley Solar Facility. These issues include concerns about water resources, alternatives, socioeconomics, public health and safety, hazardous materials and waste, and noise. The EPA has requested detailed analyses and discussion related to these concerns."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility Final Environmental Impact Statement (EIS), published in December 2015, addresses various issues raised through public and agency comments. This includes the project's purpose and need, as requested by the EPA, and other concerns such as mitigation plans, agricultural impact, visual resources, climate change impacts, decommissioning plans, land use and recreation, environmental justice, and general impact analysis. The EIS is required to provide a strong rationale for the project and include a comprehensive evaluation of its effects on the environment and local communities."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "USACE",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": "EPA"
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "Volume II of the EIS contains the following technical appendices: Appendix A: Public Scoping Involvement, Appendix B: Section 404(b)(1) Alternatives Information, Appendix C: Applicant Proposed Measures, Mitigation Measures, and PG&E Avoidance and Minimization Measures, Appendix D: Drainage Crossing Drawings, Appendix E: PG&E Natural Resources-Related Studies, Appendix F: Biological Resources, Appendix G: Agency Consultation, Appendix H: Plans, Appendix I: CDFW Incidental Take Permit"
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "US Army Corps of Engineers, Sacramento District",
+          "contact": {
+            "name": "Lisa Gibson",
+            "email": "Lisa.M.Gibson2@usace.army.mil",
+            "phone": ""
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "US Army Corps of Engineers, Sacramento District",
+      "contact": {
+        "name": "Lisa Gibson",
+        "email": "Lisa.M.Gibson2@usace.army.mil",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "SPN\u20132009\u201300443",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The USACE\u2019s proposed action is to make a decision on the permit application submitted by Panoche Valley Solar, LLC to construct the Panoche Valley Solar Facility in eastern San Benito County, California."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The evaluation of alternatives in this EIS provides the basis for the USACE to make specific findings under Section 404(b)(1) of the Clean Water Act. The alternatives evaluation must comply with both NEPA and Clean Water Act Section 404(b)(1) Guidelines for alternatives analysis."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "December 2015",
+      "abstract": "The applicant proposed a 399 MW solar facility with expected project impacts including fill into Panoche and Las Aguilas Creeks. The preferred alternative involves impacts to several creeks and unnamed ephemeral drainages, and the project includes proposed compensatory mitigation for the loss of waters of the U.S. associated with the applicant\u2019s preferred alternative."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project involves developing a 247 MW solar facility. The USACE has noted that reducing the project further is not feasible due to the substantial reduction already made from the original 1,000 MW proposal. Additional considerations include costs, emergency logistics, and impacts on U.S. waters."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "U.S. Army Corps of Engineers",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "U.S. Fish and Wildlife Service and California Department of Fish and Wildlife"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project involves the development of a 247 MW solar facility in Panoche Valley. Alternative configurations were explored to minimize environmental impacts, particularly on U.S. waters and sensitive biological species. Despite evaluations, no alternative configurations were found that sufficiently minimized impacts while meeting project requirements."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "USACE",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project entails developing a 247 MW solar facility within the west-central portion of California's Central Valley, including parts of San Benito, Kings, Fresno, Merced, and Madera Counties. Alternatives include constructing bridge crossings over Panoche and Las Aguilas Creeks and avoiding U.S. waters on the site's eastern side or a 'no build' alternative. Screening criteria primarily focus on meeting the overall project purpose and minimizing environmental impact."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "This document discusses the size requirements and site-specific constraints for developing a 247 MW solar facility. The USACE has determined that at least 2,000 acres is needed for such a facility, based on California solar facilities reviewed. The document includes details of various solar energy projects in California, their locations, power outputs, and sizes to support this determination."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The proposed project would discharge dredged and fill material into 0.1220.121 acre of waters of the U.S. that are subject to the Section 404(b)(1) Guidelines. Alternative considerations include location, cost, and logistics, particularly the need for emergency ingress and egress and proximity to an existing 230 kV transmission line."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string",
+                "format": "email"
+              },
+              "phone": {
+                "type": "string"
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "US Army Corps of Engineers",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "Southern California Edison"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility project aims to meet its obligations under the executed PPA with Southern California Edison to deliver 247 MW by 2019. Alternative technologies and off-site alternatives were evaluated; however, none met the purpose and need except for the Westlands CREZ Alternative which was potentially feasible."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "default": ""
+              },
+              "email": {
+                "type": "string",
+                "format": "email",
+                "default": ""
+              },
+              "phone": {
+                "type": "string",
+                "default": ""
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "default": ""
+          },
+          "id": {
+            "type": "string",
+            "default": ""
+          },
+          "abstract": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "",
+          "id": "",
+          "abstract": "The project involves the construction and operation of the Panoche Valley Solar Facility, which includes the installation of solar arrays and infrastructure such as free span bridges and ephemeral drainage crossings. The no action alternative would avoid certain jurisdictional areas and relocate solar arrays to mitigate impacts on waters of the U.S., requiring additional infrastructure and increased site traffic during construction."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility project involves the construction, maintenance, and operation of a solar facility in the Panoche Valley. The project includes permanent protection and management of conservation lands to mitigate potential impacts on federally and state-listed species. The proposed project will affect various water bodies on the site with specific mitigation efforts."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "",
+          "id": "",
+          "abstract": "The Panoche Valley Solar Facility project will transform a cattle-grazing site, previously used for crop production, into a solar field consisting of ground-mounted PV modules. Key components include an underground electrical collection system, a substation, a switching station, and upgrades to PG&E's telecommunications networks. Approximately 1,629 acres will host over one million PV panels with a single-axis tracker system, optimized to maximize solar efficiency."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility project involves the installation of solar arrays that will impact various areas including 1,629 acres for solar arrays, 30 acres for perimeter roads, and 12 acres for substation and other facilities. The total permanent impact area is estimated to be 1,794 acres, with a total project footprint of 2,506 acres. The facility will use 145 1.67-MW power blocks and 6 0.83-MW power blocks."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility involves the installation and maintenance of high-efficiency PV panels within a defined project footprint. The project includes provisions for maintenance and emergency response, electricity collection via combiner boxes, inverters, and transformers, and transmission of converted and stepped-up alternating current to a substation."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": "A substation and switching station would be constructed north of the existing PG&E transmission line on the west side of Little Panoche Road. Electrical transformers, switchgear, and related substation facilities would be designed and constructed to transform medium-voltage power from the project\u2019s delivery system to the existing PG&E 230 kV transmission line. The substation equipment would range in height from 3 feet to 35 feet, with one approximately 100-foot-tall microwave tower and up to 12 approximately 135-foot tall tubular steel poles installed to connect to PG&E\u2019s existing transmission line. The substation site would be graded to an approximately level grade and cover approximately 9 of the 12.4-acre substation area."
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "Project Description and Alternatives\nDecember 2015"
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string",
+                "format": "email"
+              },
+              "phone": {
+                "type": "string"
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "Emergency egress and access roads for the project would cross Panoche Creek, Las Aguilas Creek, and three unnamed drainages on the eastern side of the project footprint. These crossings require multiple permits, including a Section 404 permit from USACE, a Section 401 Water Quality Certification from Regional Water Quality Control Board, and a CDFW Lake and Streambed Alteration Agreement. The project proposes the use of single-span bridges to cross the creeks, minimizing environmental impact within the Ordinary High Water Mark."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document details the impacts of the Panoche Valley Solar Facility project on creek crossings, emphasizing the construction of single-span bridges over Las Aguilas and Panoche Creeks. The impacts include specific measurements of the affected areas, volumes of cut and fill materials, and permanent and temporary disturbances to upland habitats. The report also mentions the construction details to ensure stability and usability of the bridges during high water flows."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The project involves the development of the Panoche Valley Solar Facility with considerations for various drainage crossing impacts and engineering designs to avoid certain areas. The construction of a perimeter road and the installation of drainage structures, including culverts and riprap, are among the key activities."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document discusses the necessary measures for project implementation including grading, filling, installing erosion protection, constructing low water crossings, and ensuring compliance with local regulations to accommodate a solar facility in Panoche Valley."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "Final EIS December 2015",
+      "abstract": "The project involves installing low water crossings at multiple impact areas, rerouting jurisdictional drainage, creating erosion protection measures, and constructing security fencing with wildlife gaps."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project involves the construction of various facilities and infrastructures including fences, water tanks, and wildlife exclusion fencing for the protection of special status species during the construction and operation phases."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document discusses the project description and alternatives for the Panoche Valley Solar Facility, including details on site disturbance and design. The permanent disturbance comes from the construction of project footprint perimeter roads, emergency access points, maintenance transportation corridors, substations, fences, stormwater control basins, parking areas, collector lines, solar array footers, and equipment pads. The text also describes temporary impacts and restoration plans for disturbed areas."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "value": ""
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "value": ""
+              },
+              "email": {
+                "type": "string",
+                "format": "email",
+                "value": ""
+              },
+              "phone": {
+                "type": "string",
+                "value": ""
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "value": ""
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "value": "Panoche Valley Solar Facility"
+          },
+          "id": {
+            "type": "string",
+            "value": ""
+          },
+          "abstract": {
+            "type": "string",
+            "value": "The Panoche Valley Solar Facility project proposes to develop a large-scale solar power facility, involving significant permanent and temporary land disturbance for solar arrays, roads, and various other facilities."
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility involves erosion control measures including the use of sandbags, straw wattles, energy dissipaters, and other similar BMP devices during construction. Revegetation will occur post-grading to reduce sediment transport. Structural BMPs will be incorporated into substation design. Utilities during construction will be sourced from local power grids and portable generators, with water from on-site wells. Waste management will include hauling wastewater to treatment plants and solid waste to recycling centers or landfills. A SCADA system will manage project communications and control PV panels and substations. Telephone and Internet services will be provided by AT&T."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility involves the installation of underground fiber and/or copper communication lines by AT&T using directional boring techniques to avoid geological and biological features. The project includes the use of existing County rights-of-way and aims to minimize environmental impacts. Water use for the project will be primarily for dust control and sanitary facilities, sourced from the Panoche Valley Groundwater Basin."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "This document outlines the construction and operational details, environmental precautions, and special activities for the Panoche Valley Solar Facility. Key points include permitted operational times, site preparation details, and panel installation procedures. Specific measures are also taken to avoid disturbing ground at night, protect sensitive species, and ensure that noise levels are kept within acceptable limits. The preparation and grading process is described, focusing on minimizing land disruption."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility involves constructing a solar power generating facility with prefabricated racking systems and preassembled PV panels. Panels will be manually secured to the racks and connected to DC combiner boxes delivering power to local inverters. The substation construction and traffic management plans are detailed, including workforce variability and traffic routes to mitigate increased traffic volume and safety risks."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "Final EIS December 2015",
+      "abstract": "The text provides details on the estimated traffic and construction traffic specifications for the Panoche Valley Solar Facility project. It includes information on peak and average trips by employees, material delivery trips, and various types of construction traffic. Also described are the origins and travel distances for workers, the nature of delivery traffic, and the routes used for material and equipment deliveries."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "default": ""
+              },
+              "email": {
+                "type": "string",
+                "format": "email",
+                "default": ""
+              },
+              "phone": {
+                "type": "string",
+                "default": ""
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "default": "Panoche Valley Solar Facility Final EIS"
+          },
+          "id": {
+            "type": "string",
+            "default": ""
+          },
+          "abstract": {
+            "type": "string",
+            "default": "Table 2-12 describes the delivery truck type for each project component. Vehicles and heavy construction equipment will be delivered at the start of and during construction, remaining on-site for the duration. The document includes details on vehicle types, usage, emissions, and other relevant logistics regarding project implementation."
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "PG&E"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "PG&E"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility involves a large generator interconnection agreement and a power purchase agreement. The project will be connected via a loop-in from the project's switching station to the PG&E 230 kV transmission line. Construction includes building a switching station, installing tubular steel poles, and removing existing lattice towers. PG&E will undertake network upgrades to ensure system reliability."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "December 2015",
+      "abstract": "The Panoche Valley Solar Facility project is expected to be fully operational by the end of 2016 and would operate for at least 30 years. Operations will include monitoring system status, performance, diagnostics, and more from the control room in the O&M building, with a full-time staff including a site manager, technician, maintenance crew, and security personnel. The site will be secured with fencing, gates, and 24-hour security, along with maintenance routines for the PV panels and other components. Water use will cover sanitary facilities, fire suppression, grazing livestock, and annual cleaning of PV panels."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "San Benito County"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility involves the use of an all-terrain vehicle fitted with a trailer, requiring 2.84 acre-feet of water annually. Measures are in place to minimize environmental impacts, including lighting adhering to local ordinances and implementation of specific environmental impact reduction measures as part of the EIR process."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string",
+                "format": "email"
+              },
+              "phone": {
+                "type": "string"
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string",
+                "format": "email"
+              },
+              "phone": {
+                "type": "string"
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "This section includes a list of mitigation measures categorized by different issues areas such as Land Use, Air Quality, Biological Resources, and Water Resources. Specific measures involve construction liaison establishment, advance notification, fugitive dust reduction, preparation and implementation of various environmental plans, biological monitoring, and pre-construction surveys among others."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document details various mitigation measures required during the pre-construction phase for different species including California Species of Special Concern, kangaroo rat, vernal pool fairy shrimp, California tiger salamander, blunt-nosed leopard lizard, California condor, burrowing owl, sensitive bats, American badger, San Joaquin kit fox, and others. Measures include conducting pre-construction surveys, implementing avoidance measures, providing substitute habitats, and creating conservation easements."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "default": ""
+              },
+              "email": {
+                "type": "string",
+                "format": "email",
+                "default": ""
+              },
+              "phone": {
+                "type": "string",
+                "default": ""
+              }
+            },
+            "required": ["name", "email"],
+            "default": {}
+          }
+        },
+        "required": ["name", "contact"],
+        "default": {}
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["name"],
+        "default": {}
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "default": ""
+          },
+          "id": {
+            "type": "string",
+            "default": ""
+          },
+          "abstract": {
+            "type": "string",
+            "default": ""
+          }
+        },
+        "required": ["title", "id", "abstract"],
+        "default": {}
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"],
+    "default": {}
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The project addresses biological and grazing resource impacts through conservation of 24,618 acres of mitigation lands, including on-site and off-site areas. Conservation lands include the Valley Floor Conservation Lands, On-site Conservation Lands, Valadeao Ranch Conservation Lands, and Silver Creek Ranch Conservation Lands. Additional 1,000 acres of conservation lands will be secured."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "CDFW"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project involves the purchase and permanent protection and management of conservation lands within the Panoche Valley. The applicant may alternatively purchase conservation easements. A total of 25,618 acres of conservation lands would be preserved to offset impacts on wildlife species and associated habitats. Conservation measures include fencing to exclude unauthorized access, removal of litter and wastes, and restoration of disturbed areas."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string",
+                "format": "email"
+              },
+              "phone": {
+                "type": "string"
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "Bureau of Land Management (BLM)"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "PG&E proposes to install new optical ground wire (OPGW) along 17 miles of its existing Panoche-Moss Landing 230 kV transmission line, between the new substation on the project site and the existing PG&E Panoche Substation in Fresno County. The project includes replacing existing shield wire with OPGW, which will provide both telecommunications services and protection for the line. Additionally, OPGW will be installed using existing transmission line towers with minimal modifications. Of the 17 miles, about 7 miles are in San Benito County and 10 miles are in Fresno County, with 6 miles on federal lands administered by the BLM. PG&E has submitted an SF-299 right-of-way permit application, which is currently being processed by the BLM."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project involves the installation of Optical Ground Wire (OPGW) along a 17-mile 230 kV transmission line route. The construction would involve minor ground disturbances, upgrades to existing towers, and the use of helicopters for transporting workers and materials. Temporary pull/splice sites and landing zones would be established to facilitate the work."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The document details various temporary guard structures and work areas necessary for the Panoche Valley Solar Facility. Approximately eleven temporary guard structures designed to prevent tools or materials from falling into roadways or utilities will be used at seven crossings. Additionally, the project involves crossing under existing 500 kV transmission lines and the replacement of wood poles to support new ADSS fiber optic cable. The total anticipated site disturbance for all work areas is summarized in Table 2-16, accounting for approximately 5.73 acres."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "PG&E proposes upgrades to the telecommunications system, including the installation of microwave communication towers to meet reliability standards. The project includes constructing new towers at the project switching station and Helm Substation and using existing towers at Call Mountain and Panoche Mountain. The upgrades aim to ensure system protection by establishing a redundant telecommunication path. Compliance with FAA and FCC regulations is required."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string",
+                "format": "email"
+              },
+              "phone": {
+                "type": "string"
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "Under Alternative B, the applicant would construct the proposed Panoche Valley Solar Facility and PG&E would perform primary and secondary telecommunication network upgrades. Emergency egress and access roads for the project would cross Panoche Creek, Las Aguilas Creek, and three unnamed drainages on the eastern side of the project footprint that are subject to permitting under Section 404(b)(1) of the Clean Water Act."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The multi-span bridges described are designed to have minimal backwater rise from a 100-year storm at Las Aguilas Creek or Panoche Creek, ensuring maximum water conveyance and availability for emergency personnel usage during high-water flows. Construction impacts include excavation and concrete foundation installation, causing some disturbance to streambed and stream bank habitats."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "Final EIS December 2015",
+      "abstract": "Installation of multi-span bridges would permanently disturb approximately 0.002 acre within OHWM of Las Aguilas Creek and Panoche Creek. The bridge construction would temporarily disturb adjacent upland areas. No waters of the U.S. would need to be filled for electrical cables due to the use of overhead cables. Alternative B involves proposed actions in three additional federal jurisdictional impact areas. Alternative C involves Westlands Competitive Renewable Energy Zone, identified for its potential due to its location, contamination with selenium, and proximity to existing transmission facilities."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility aims to construct an approximately 247 MW solar photovoltaic energy-generating facility and associated transmission and support facilities in the west-central portion of California\u2019s Central Valley. The Westlands CREZ alternative was evaluated, focusing on the Westlands Solar Park, which has the potential to accommodate up to 5,000 MW of solar energy generation. The project involves substantial transmission planning and the construction of new high-voltage lines to meet the facility's interconnection needs."
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "name": "",
+        "contact": {
+          "name": "",
+          "email": "",
+          "phone": ""
+        }
+      },
+      "CooperatingAgency": {
+        "name": ""
+      },
+      "ProjectDetails": {
+        "title": "Panoche Valley Solar Facility Final EIS",
+        "id": "",
+        "abstract": ""
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "Westlands Water District",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "USACE"
+    },
+    "ProjectDetails": {
+      "title": "Westlands Solar Park Master Plan",
+      "id": "",
+      "abstract": "The Westlands CREZ alternative entails constructing a 247 MW PV solar facility on a 2,500-acre site within the Westlands CREZ. The project does not propose transmission infrastructure and does not include county mitigation measures due to the lack of conditional use permitting or master planning by Fresno or Kings County."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": "Hollister Fire Department"
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "The project involves the construction of a solar facility in Panoche Valley with a proposed 247 MW power output. Several alternatives for access roads and creek crossings are considered to reduce environmental impacts while complying with emergency access requirements."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility",
+      "id": "",
+      "abstract": "This project involves the construction and management of the Panoche Valley Solar Facility. The project includes the installation of concrete block mattresses in jurisdictional ephemeral stream channels. Several crossing alternatives were considered and eliminated due to failure to meet emergency access requirements and adverse impacts on waters of the U.S. Off-site alternatives, such as the Brownfield-Kettleman City site, were also considered but eliminated due to logistical challenges and terrain."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string",
+                "format": "email"
+              },
+              "phone": {
+                "type": "string"
+              }
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Facility project involves evaluating various site alternatives for constructing a solar facility. The alternatives include different environmental and logistical considerations, such as critical habitats, hydrological features, and land ownership status. Each site has been assessed for feasibility, environmental impacts, and transmission requirements. The Panoche Ranch Alternative, due to its location and size, was deemed infeasible as it could not support a 247 MW PV generating facility and was not available for sale or lease."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "LeadAgency": {
+        "type": "object",
+        "properties": {
+          "name": "",
+          "contact": {
+            "type": "object",
+            "properties": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            "required": ["name", "email"]
+          }
+        },
+        "required": ["name", "contact"]
+      },
+      "CooperatingAgency": {
+        "type": "object",
+        "properties": {
+          "name": ""
+        },
+        "required": ["name"]
+      },
+      "ProjectDetails": {
+        "type": "object",
+        "properties": {
+          "title": "Panoche Valley Solar Facility Final EIS",
+          "id": "",
+          "abstract": ""
+        },
+        "required": ["title", "id", "abstract"]
+      }
+    },
+    "required": ["LeadAgency", "CooperatingAgency", "ProjectDetails"]
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Facility Final EIS",
+      "id": "",
+      "abstract": "The project involves the construction of a 247 MW solar facility. Alternative technologies such as wind, biomass, and geothermal were not considered. Distributed solar generation was evaluated as an alternative in the EIR for the Panoche Valley Solar Project. The California Solar Initiative Program aims to install 3,000 MW of new distributed solar generation systems. The report indicates that 2,139 MW of distributed solar had been installed in California by the end of the first quarter of 2014."
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "",
+      "id": "",
+      "abstract": ""
+    }
+  },
+  {
+    "LeadAgency": {
+      "name": "",
+      "contact": {
+        "name": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "CooperatingAgency": {
+      "name": ""
+    },
+    "ProjectDetails": {
+      "title": "Panoche Valley Solar Project",
+      "id": "",
+      "abstract": "The Panoche Valley Solar Project involves the construction of a 247 MW solar facility in the west-central portion of the Central Valley. The project aims to contribute to California's energy needs. Although conservation and energy demand reduction measures are important, this particular project focuses on solar energy to meet growing energy demands."
+    }
+  }
+]
