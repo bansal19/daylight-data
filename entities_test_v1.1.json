@@ -1,0 +1,289 @@
+[
+    {
+        "documentId": "DOC-001",
+        "pageNumber": 27,
+        "projectMetadata": {
+            "id": "SPN-2009-00443",
+            "name": "Panoche Valley Solar Facility",
+            "location": "Panoche Valley",
+            "date": "December 2015"
+        },
+        "extractedData": {
+            "Project": {
+                "summary": "The applicant's proposed project preferred alternative includes emergency egress and access roads crossing Panoche Creek, Las Aguilas Creek, and three unnamed ephemeral drainages. The project involves discharging fill material into jurisdictional ephemeral stream channels and proposes measures to avoid, minimize, and compensate for impacts to waters of the U.S. Alternative B involves similar construction with minor differences in bridge construction and fill material discharge.",
+                "capacity": null,
+                "technology": null
+            },
+            "Persons": null,
+            "Organization": [
+                {
+                    "name": "Department of the Army",
+                    "type": "Federal",
+                    "acronym": null,
+                    "fullName": "Department of the Army",
+                    "role": "Regulatory Body",
+                    "isApplicant": false
+                },
+                {
+                    "name": "PG&E",
+                    "type": "Private",
+                    "acronym": "PG&E",
+                    "fullName": "Pacific Gas and Electric Company",
+                    "role": "Contractor",
+                    "isApplicant": false
+                }
+            ],
+            "Comments": null
+        }
+    },
+    {
+        "documentId": "DOC-001",
+        "pageNumber": 28,
+        "projectMetadata": {
+            "id": "SPN-2009-00443",
+            "name": "Panoche Valley Solar Facility",
+            "location": "Panoche Valley",
+            "date": "2015-12"
+        },
+        "extractedData": {
+            "Project": {
+                "summary": "Under Alternative C, a 247 MW photovoltaic solar facility with project features similar to those described under Alternatives A and B would be constructed on 2,500 acres within the Westlands Competitive Renewable Energy Zone (CREZ) in Fresno and Kings Counties.",
+                "capacity": "247 MW",
+                "technology": "photovoltaic solar"
+            },
+            "Persons": null,
+            "Organization": [
+                {
+                    "name": "USACE",
+                    "type": "Federal",
+                    "acronym": null,
+                    "fullName": "United States Army Corps of Engineers",
+                    "role": "Regulatory Body",
+                    "isApplicant": false
+                },
+                {
+                    "name": "CDFW",
+                    "type": "State",
+                    "acronym": null,
+                    "fullName": "California Department of Fish and Wildlife",
+                    "role": "Regulatory Body",
+                    "isApplicant": false
+                }
+            ],
+            "Comments": null
+        }
+    },
+    {
+        "documentId": "SPN-2009-00443",
+        "pageNumber": 26,
+        "projectMetadata": {
+            "id": "SPN-2009-00443",
+            "name": "Panoche Valley Solar Facility",
+            "location": "Panoche Valley",
+            "date": "December 2015"
+        },
+        "extractedData": {
+            "Project": {
+                "summary": "The applicant and Southern California Edison executed a power purchase agreement for the project in August 2014. Under this agreement, Southern California Edison is obligated to purchase and the applicant is obligated to deliver 247 MWAC of power annually for 20 years beginning in 2019. PG&E would make telecommunication upgrades to ensure reliability of the system before interconnecting the proposed project.",
+                "capacity": "247 MWAC",
+                "technology": "Solar"
+            },
+            "Persons": null,
+            "Organization": [
+                {
+                    "name": "Southern California Edison",
+                    "type": "Private",
+                    "acronym": null,
+                    "fullName": "Southern California Edison",
+                    "role": "Power Purchaser",
+                    "isApplicant": false
+                },
+                {
+                    "name": "PG&E",
+                    "type": "Private",
+                    "acronym": "PG&E",
+                    "fullName": "Pacific Gas and Electric Company",
+                    "role": "Utility",
+                    "isApplicant": false
+                },
+                {
+                    "name": "San Benito County",
+                    "type": "Local",
+                    "acronym": null,
+                    "fullName": "San Benito County",
+                    "role": "Lead Agency",
+                    "isApplicant": false
+                }
+            ],
+            "Comments": null
+        }
+    },
+    {
+        "documentId": "DOC-001",
+        "pageNumber": 30,
+        "projectMetadata": {
+            "id": "SPN-2009-00443",
+            "name": "Panoche Valley Solar Facility",
+            "location": "Panoche Valley",
+            "date": "December 2015"
+        },
+        "extractedData": {
+            "Project": {
+                "summary": "Most of the scoping comments focused on biological issues, especially impacts on sensitive and protected species, migratory birds, and grassland ecosystems. Commenters requested a full accounting of sensitive species, a thorough analysis of project and cumulative impacts, a description of measures to avoid, minimize, and mitigate project impacts, and provisions of mitigation, monitoring, and translocation plans.",
+                "capacity": null,
+                "technology": null
+            },
+            "Persons": null,
+            "Organization": [
+                {
+                    "name": "EPA",
+                    "type": "Federal",
+                    "acronym": null,
+                    "fullName": "Environmental Protection Agency",
+                    "role": "Regulatory Body",
+                    "isApplicant": false
+                },
+                {
+                    "name": "USFWS",
+                    "type": "Federal",
+                    "acronym": null,
+                    "fullName": "U.S. Fish and Wildlife Service",
+                    "role": "Regulatory Body",
+                    "isApplicant": false
+                },
+                {
+                    "name": "CDFW",
+                    "type": "State",
+                    "acronym": null,
+                    "fullName": "California Department of Fish and Wildlife",
+                    "role": "Regulatory Body",
+                    "isApplicant": false
+                }
+            ],
+            "Comments": [
+                {
+                    "content": "Most of the scoping comments focused on biological issues, especially impacts on sensitive and protected species, migratory birds, and grassland ecosystems. Commenters requested a full accounting of sensitive species, a thorough analysis of project and cumulative impacts, a description of measures to avoid, minimize, and mitigate project impacts, and provisions of mitigation, monitoring, and translocation plans.",
+                    "date": null,
+                    "sentiment": null,
+                    "commenter": "Commenters"
+                },
+                {
+                    "content": "The EPA and other commenters requested an estimation of the quantity of water required during construction and operation, the proposed source of the water, a description of water rights permitting and the status of water rights in the basin, the potential impact on other water users in the area, and the potential impacts on surface and groundwater.",
+                    "date": null,
+                    "sentiment": null,
+                    "commenter": "EPA"
+                },
+                {
+                    "content": "The EPA indicated that the EIS should include a robust discussion of alternatives, including alternative sites, capacities, and technologies, and that an environmentally preferable alternative be identified.",
+                    "date": null,
+                    "sentiment": null,
+                    "commenter": "EPA"
+                },
+                {
+                    "content": "A number of individuals had concerns over the impact the facility would have on the value of their property, local businesses, tourism, Panoche schoolchildren, and the community.",
+                    "date": null,
+                    "sentiment": null,
+                    "commenter": "individuals"
+                }
+            ]
+        }
+    },
+    {
+        "documentId": "DOC-001",
+        "pageNumber": 29,
+        "projectMetadata": {
+            "id": "SPN-2009-00443",
+            "name": "Panoche Valley Solar Facility",
+            "location": "Panoche Valley",
+            "date": "December 2015"
+        },
+        "extractedData": {
+            "Project": {
+                "summary": "In the Federal Register on July 19, 2012 (Fed. Reg. Vol. 77, No. 139, p. 42488), the USACE initiated a 30-day scoping period for this EIS; this period was extended by nearly 20 days to end on September 7, 2012. The NOI was published in the Hollister Free Lance on July 31 and August 3, 2012. Also, it was mailed to federal, state, and local agencies, organizations, and individuals known to have an interest in the project. The NOI invited the public to provide information on environmental impacts that could occur as a result of the proposed project as proposed in 2012. Copies of these materials are in Appendix A of this EIS. Public scoping meetings were held on August 21, 2012, at the Panoche School in Paicines, California, and on August 22, 2012, at the Veterans Memorial Building in Hollister, California. The meetings began with an open house that served as an informal question and answer session, followed by a formal presentation and oral comments. Eleven people attended the scoping meeting in Paicines, and six entered comments into the public record; thirty people attended the scoping meeting in Hollister, and nine entered comments into the public record. A court reporter recorded the formal presentations and oral comments to accurately capture the information presented at the meetings. The scoping period ended on September 7, 2012. Twenty written comment letters were submitted by the following agencies, tribes, and organizations and by 12 individuals (in all, 21 individuals commented with either written or oral comments).",
+                "capacity": null,
+                "technology": null
+            },
+            "Persons": [
+                {
+                    "name": "Valentin Lopez",
+                    "email": null,
+                    "phone": null,
+                    "role": "Amah Mutsun Tribal Band of Costanoan/Ohlone Indians"
+                },
+                {
+                    "name": "Luis Alejo",
+                    "email": null,
+                    "phone": null,
+                    "role": "Assembly Member, 28th District"
+                }
+            ],
+            "Organization": [
+                {
+                    "name": "US Environmental Protection Agency",
+                    "type": "Federal",
+                    "acronym": null,
+                    "fullName": null,
+                    "role": "Regulatory Body",
+                    "isApplicant": false
+                },
+                {
+                    "name": "Amah Mutsun Tribal Band of Costanoan/Ohlone Indians",
+                    "type": "Tribal",
+                    "acronym": null,
+                    "fullName": null,
+                    "role": "Commenter",
+                    "isApplicant": false
+                },
+                {
+                    "name": "California Audubon Society",
+                    "type": "Non-profit",
+                    "acronym": null,
+                    "fullName": null,
+                    "role": "Commenter",
+                    "isApplicant": false
+                },
+                {
+                    "name": "Center for Biological Diversity",
+                    "type": "Non-profit",
+                    "acronym": null,
+                    "fullName": null,
+                    "role": "Commenter",
+                    "isApplicant": false
+                },
+                {
+                    "name": "Defenders of Wildlife",
+                    "type": "Non-profit",
+                    "acronym": null,
+                    "fullName": null,
+                    "role": "Commenter",
+                    "isApplicant": false
+                },
+                {
+                    "name": "Santa Clara Valley Audubon Society",
+                    "type": "Non-profit",
+                    "acronym": null,
+                    "fullName": null,
+                    "role": "Commenter",
+                    "isApplicant": false
+                },
+                {
+                    "name": "Citizens Committee to Complete the Refuge",
+                    "type": "Non-profit",
+                    "acronym": null,
+                    "fullName": null,
+                    "role": "Commenter",
+                    "isApplicant": false
+                },
+                {
+                    "name": "Sierra Club, Loma Prieta Chapter",
+                    "type": "Non-profit",
+                    "acronym": null,
+                    "fullName": null,
+                    "role": "Commenter",
+                    "isApplicant": false
+                }
+            ],
+            "Comments": null
+        }
+    }
+]
