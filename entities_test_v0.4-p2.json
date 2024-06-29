@@ -1,0 +1,70 @@
+[
+    {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+            "documentId": "DOC-01",
+            "pageNumber": 1,
+            "projectMetadata": {
+                "id": "SPN-2009-00443",
+                "name": "Final Environmental Impact Statement (EIS) for Panoche Valley Solar Facility",
+                "location": "San Benito County, California",
+                "date": null
+            },
+            "extractedData": {
+                "Project": {
+                    "summary": "Panoche Valley Solar, LLC (the applicant) is proposing to construct the Panoche Valley Solar Facility, a 247 megawatt photovoltaic solar generating facility in eastern unincorporated San Benito County, California. The proposed project site contains ephemeral drainages that have been determined to be jurisdictional waters of the U.S. Construction of the proposed project requires a Department of the Army permit from the US Army Corps of Engineers to discharge fill material into these waters, in accordance with Section 404 of the Clean Water Act. The proposed facility would consist of a solar field of ground-mounted photovoltaic modules; an electrical collection system that converts generated power from direct current to alternating current and delivers it to a project substation; and a project substation that collects and converts the generated power from 34.5 to 230 kilovolts. The electricity would then be delivered, via a new on-site Pacific Gas and Electric Company switching station, to its existing Moss Landing-Panoche 230 kilovolt transmission line. Generated electricity would be sold to Southern California Edison under a long-term power purchase agreement.",
+                    "capacity": "247 megawatt",
+                    "technology": "photovoltaic solar"
+                },
+                "Persons": [
+                    {
+                        "name": "Lisa Gibson",
+                        "email": "Lisa.M.Gibson2@usace.army.mil",
+                        "phone": "(916) 557-5288",
+                        "role": "Regulatory Division, US Army Corps of Engineers, Sacramento District"
+                    }
+                ],
+                "Organizations": [
+                    {
+                        "name": "US Army Corps of Engineers",
+                        "type": "Federal",
+                        "acronym": "USACE",
+                        "fullName": "US Army Corps of Engineers",
+                        "role": "Lead Federal Agency",
+                        "isApplicant": false
+                    },
+                    {
+                        "name": "US Fish and Wildlife Service",
+                        "type": "Federal",
+                        "acronym": "USFWS",
+                        "fullName": "US Fish and Wildlife Service",
+                        "role": "Cooperating Agency",
+                        "isApplicant": false
+                    },
+                    {
+                        "name": "Panoche Valley Solar, LLC",
+                        "type": "Private",
+                        "acronym": null,
+                        "fullName": "Panoche Valley Solar, LLC",
+                        "role": "Applicant",
+                        "isApplicant": true
+                    }
+                ],
+                "Comments": [
+                    {
+                        "content": "The Draft EIS was distributed for public review and comment from September 11, 2015 to October 26, 2015. On October 6, 2015 and October 7, 2015, the USACE held public meetings on the Draft EIS. This Final EIS responds to the substantive comments received on the Draft EIS during the public review and comment period.",
+                        "date": "2015-10",
+                        "sentiment": null
+                    }
+                ]
+            }
+        },
+        "required": [
+            "documentId",
+            "pageNumber",
+            "projectMetadata",
+            "extractedData"
+        ]
+    }
+]
