@@ -1,0 +1,111 @@
+/* Basic resets */
+* {
+  /* margin: 0; */
+  /* padding: 0; */
+  /* box-sizing: border-box; */
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100vw;
+}
+
+.App {
+  width: 100%;
+  max-width: 800px;
+  min-width: 800px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  /* display: flex; */
+  flex-direction: column;
+  align-items: stretch;
+  min-height: 100vh;
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Paper component for messages */
+.chat-paper {
+  background-color: #fafafa;
+  padding: 10px;
+  margin-bottom: 20px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+/* Typography styles for messages */
+.MuiTypography-root {
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px !important; /* Ensure margin-bottom is applied */
+}
+
+.user-message {
+  background-color: #e3f2fd;
+  align-self: flex-end;
+  margin-right: 20px;
+}
+
+.ai-message {
+  background-color: #ffecb3;
+  align-self: flex-start;
+  margin-left: 20px;
+}
+
+/* Input field and buttons */
+.input-grid {
+  width: 100%;
+}
+
+.MuiTextField-root {
+  background: #fff;
+  border-radius: 10px;
+}
+
+.MuiInputBase-root {
+  border-radius: 10px;
+}
+
+.MuiInputBase-root::before,
+.MuiInputBase-root::after {
+  display: none;
+}
+
+/* Buttons */
+.MuiButtonBase-root {
+  margin-left: 5px;
+}
+
+.MuiOutlinedInput-root {
+  border-radius: 50px !important;
+}
+
+.MuiCircularProgress-root {
+  color: #1976d2;
+}
+
+.MuiIconButton-root {
+  color: #1976d2;
+}
+
+/* Error message */
+.error-text {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.custom-placeholder {
+  padding-left: 20px; /* Adjust this value to move the placeholder down */
+}
