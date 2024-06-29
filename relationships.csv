@@ -1,0 +1,16 @@
+start_node,end_node,type,properties
+Project:SPN-2009-00443,Document:DOC-001,CONTAINS,
+Project:SPN-2009-00443,Document:None,CONTAINS,
+Project:SPN-2009-00443,Document:SPN-2009-00443,CONTAINS,
+Project:SPN-2009-00443,Document:DOC-0001,CONTAINS,
+Project:SPN-2009-00443,Document:unique-document-id-001,CONTAINS,
+Organization:US Fish & Wildlife Service,Project:SPN-2009-00443,HAS_ROLE,role:'NEPA Lead Federal Agency'
+Organization:US Environmental Protection Agency,Project:SPN-2009-00443,HAS_ROLE,role:'Regulatory Body'
+Organization:US Army Corps of Engineers,Project:SPN-2009-00443,HAS_ROLE,role:'Regulatory Body'
+Organization:Environmental Management and Planning Solutions Inc,Project:SPN-2009-00443,HAS_ROLE,role:'Consultant'
+Person:Ms. Lisa Gibson,Project:SPN-2009-00443,HAS_ROLE,role:'Contact Person'
+Document:SPN-2009-00443,Organization:US Fish & Wildlife Service,MENTIONS,
+Document:unique-document-id-001,Organization:US Environmental Protection Agency,MENTIONS,
+Document:unique-document-id-001,Person:Ms. Lisa Gibson,MENTIONS,
+Document:DOC-001,Organization:US Army Corps of Engineers,MENTIONS,
+Document:DOC-001,Organization:Environmental Management and Planning Solutions Inc,MENTIONS,
