@@ -1,7 +1,7 @@
 
 # What 
 
-This is a repo that allows us to visualise all the relevant stakeholders that are involved when it comes to getting a permit for a solar project developer.
+This is a repo that allows us to visualise all the relevant stakeholders that are involved in getting a permit for a solar/wind/energy project developer.
 
 # How
 
