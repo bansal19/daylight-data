@@ -1,0 +1,1325 @@
+{
+    "persons_to_organizations": {
+        "Roland Benke": [
+            "California Energy Commission",
+            4
+        ],
+        "John W. Lawrence": [
+            "DOE",
+            3
+        ],
+        "G.I. Smith": [
+            "State Engineer",
+            4
+        ],
+        "Edwin Mueller": [
+            "SNL",
+            2
+        ],
+        "G.L. Locke": [
+            "Congress",
+            4
+        ],
+        "F.P. Bertetti": [
+            "Kolesar & Leathman",
+            2
+        ],
+        "I. Varley": [
+            "Bureau of Government Affairs",
+            1
+        ],
+        "D. Braun": [
+            "SNDWR",
+            2
+        ],
+        "J. Quade": [
+            "Fredericks Peebles & Morgan, LLP",
+            5
+        ],
+        "G.E. Griffith": [
+            "California Department of Justice",
+            2
+        ],
+        "Kilroy": [
+            "Yucca Mountain Public Reading Room",
+            5
+        ],
+        "Belcher, W.R.": [
+            "Naval Sea Systems Command",
+            4
+        ],
+        "C.B.T. Hunt": [
+            "California Energy Commission",
+            4
+        ],
+        "Jeffrey Clark": [
+            "Bureau of Government Affairs",
+            1
+        ],
+        "W. Kuhne": [
+            "US Environmental Protection Agency",
+            5
+        ],
+        "Beck": [
+            "Yucca Mountain Science Center",
+            3
+        ],
+        "Eisler": [
+            "California Attorney General\u2019s Office",
+            5
+        ],
+        "Douglas": [
+            "Office of Nuclear Material Safety and Safeguards",
+            5
+        ],
+        "N.R. Amundsen": [
+            "Nuclear Waste Project Office",
+            4
+        ],
+        "Michael Reynolds": [
+            "Nevada State Historic Preservation Office",
+            2
+        ],
+        "Ross D. Colburn": [
+            "Kolesar & Leathman",
+            2
+        ],
+        "M. Reid": [
+            "Eureka County Public Works",
+            1
+        ],
+        "R.M. Forester": [
+            "NRC Staff",
+            3
+        ],
+        "T.J. Traub": [
+            "National Park Service",
+            1
+        ],
+        "Loreen Pitchford": [
+            "Office of the Attorney General",
+            3
+        ],
+        "K.C. Kilroy": [
+            "Council on Environmental Quality",
+            3
+        ],
+        "J.S. Stuckless": [
+            "Nye County",
+            5
+        ],
+        "J.L. Smith": [
+            "Pahrump Yucca Mountain Science Center",
+            1
+        ],
+        "W. McCoy": [
+            "Harmon, Curran, Spielberg, & Eisenberg, LLP",
+            3
+        ],
+        "K.H. Johannesson": [
+            "Nuclear Energy Institute, Inc.",
+            4
+        ],
+        "James Bradford Ramsay": [
+            "Pacific Northwest National Laboratory",
+            4
+        ],
+        "John Kotek": [
+            "U.S. Fish and Wildlife Service",
+            1
+        ],
+        "Irene Navis": [
+            "US Environmental Protection Agency",
+            5
+        ],
+        "B.D. Marshall": [
+            "Environmental Protection Agency",
+            5
+        ],
+        "Menges": [
+            "U.S. Fish and Wildlife Service",
+            1
+        ],
+        "F.A. Street-Perrott": [
+            "U.S. Department of Energy",
+            3
+        ],
+        "Johannesson": [
+            "California State Historic Preservation Office",
+            5
+        ],
+        "Timothy E. Sullivan": [
+            "Nevada Division of State Lands",
+            2
+        ],
+        "Paces": [
+            "Nevada Division of State Lands",
+            2
+        ],
+        "M.T. Moreo": [
+            "NNSA",
+            2
+        ],
+        "Winograd": [
+            "National Nuclear Security Administration",
+            5
+        ],
+        "P.A. Glancy": [
+            "National Association of Regulatory Utility Commissioners",
+            3
+        ],
+        "S.T. Nelson": [
+            "Office of Nuclear Material Safety and Safeguards",
+            5
+        ],
+        "R.A. Levich": [
+            "CEQ",
+            4
+        ],
+        "Kevin W. Bell": [
+            "Department of Interior",
+            2
+        ],
+        "Belcher et al": [
+            "SHPO",
+            2
+        ],
+        "Philip R. Mahowald": [
+            "U.S. Fish and Wildlife Service",
+            1
+        ],
+        "Elizabeth A. Vibert": [
+            "US Geological Survey",
+            2
+        ],
+        "Tanko": [
+            "Southern Nevada Water Authority",
+            4
+        ],
+        "Kenneth P. Woodington": [
+            "SEIS",
+            4
+        ],
+        "M.C. Hill": [
+            "Nevada SHPO",
+            1
+        ],
+        "Christopher B. Clare": [
+            "Harmon, Curran, Spielberg, & Eisenberg, LLP",
+            3
+        ],
+        "S.C. James": [
+            "Ash Meadows",
+            4
+        ],
+        "J.M. Melillo": [
+            "Southwest Research Institute",
+            5
+        ],
+        "Laczniak et al": [
+            "Alexander, Berkey, Williams, & Weathers, LLP",
+            1
+        ],
+        "K. Moseley": [
+            "American Nuclear Society",
+            5
+        ],
+        "Martin G. Malsch": [
+            "Nuclear Energy Institute, Inc.",
+            4
+        ],
+        "Czarnecki": [
+            "International Atomic Energy Agency",
+            5
+        ],
+        "C.C. Faunt": [
+            "NNSA",
+            2
+        ],
+        "Patrick LaPlante": [
+            "NRC",
+            3
+        ],
+        "Thordarson": [
+            "NDWR",
+            3
+        ],
+        "D Price": [
+            "ICRP",
+            1
+        ],
+        "Whelan": [
+            "Armstrong Teasdale, LLP",
+            4
+        ],
+        "ML Horinko": [
+            "Yucca Mountain Public Reading Room",
+            5
+        ],
+        "JR Harrill": [
+            "Nevada Attorney General",
+            5
+        ],
+        "D.S. Sweetkind": [
+            "Nevada Attorney General",
+            5
+        ],
+        "Paul Bertetti": [
+            "US Department of Energy",
+            1
+        ],
+        "D.M. Miller": [
+            "Winston & Strawn, LLP",
+            5
+        ],
+        "L. Burckle": [
+            "Office of the Attorney General",
+            3
+        ],
+        "Claire Whetsel": [
+            "State of Nevada Department of Conservation and Natural Resources",
+            4
+        ],
+        "Tara Baugh": [
+            "Prairie Island Indian Community",
+            2
+        ],
+        "J.W. Harbaugh": [
+            "Armstrong Teasdale, LLP",
+            4
+        ],
+        "Malachy R. Murphy": [
+            "Nye County, Nevada",
+            4
+        ],
+        "D.K. Higgins": [
+            "University of Nevada, Las Vegas",
+            2
+        ],
+        "Daniel Hooge": [
+            "Kolesar & Leathman",
+            2
+        ],
+        "Belcher and Sweetkind": [
+            "Beatty low-level waste site",
+            5
+        ],
+        "H. Goldstein": [
+            "Beatty Yucca Mountain Science Center",
+            5
+        ],
+        "D.M. Opresko": [
+            "Atomic Safety and Licensing Board",
+            2
+        ],
+        "J. Valentin": [
+            "Esmeralda County Repository Oversight Program",
+            1
+        ],
+        "R. Smyth": [
+            "U.S. Global Change Research Program",
+            2
+        ],
+        "J. Bredehoeft": [
+            "Alexander, Berkey, Williams, & Weathers, LLP",
+            1
+        ],
+        "J.B. Blainey": [
+            "ICRP",
+            1
+        ],
+        "Levich": [
+            "NRC Staff",
+            3
+        ],
+        "George W. Hellstrom": [
+            "International Atomic Energy Agency",
+            5
+        ],
+        "S. Ross Shealy": [
+            "ICRP",
+            1
+        ],
+        "Eary LE": [
+            "Atomic Safety and Licensing Board",
+            2
+        ],
+        "D.C. Zamudio": [
+            "U.S. Geological Survey",
+            4
+        ],
+        "Connie Simkins": [
+            "NRC",
+            3
+        ],
+        "G.A. DeMeo": [
+            "Mineral County Nuclear Projects Office",
+            5
+        ],
+        "A. Comrie": [
+            "NDWR",
+            3
+        ],
+        "R. Hershler": [
+            "State Engineer",
+            4
+        ],
+        "Scott W. Williams": [
+            "University of Nevada, Reno",
+            1
+        ],
+        "J.B. Czarnecki": [
+            "SEIS",
+            4
+        ],
+        "W.R. Belcher": [
+            "Timbisha Shoshone Tribal Council",
+            2
+        ],
+        "Jerry Bonanno": [
+            "Native Community Action Council",
+            1
+        ],
+        "Robert S. Hanna": [
+            "Intertech Services Corporation",
+            1
+        ],
+        "Lapidus and Amundsen": [
+            "U.S. Global Change Research Program",
+            2
+        ],
+        "E.R. Banta": [
+            "State Historic Preservation Office",
+            5
+        ],
+        "Daryl Crawford": [
+            "Nevada Attorney General",
+            5
+        ],
+        "E. Tallyn": [
+            "U.S. Environmental Protection Agency",
+            3
+        ],
+        "Jan Morrison": [
+            "Lincoln County, Nevada",
+            2
+        ],
+        "C.B. Johnson": [
+            "Beatty Yucca Mountain Science Center",
+            5
+        ],
+        "Gregory L. James": [
+            "SHPO",
+            2
+        ],
+        "G. Franco": [
+            "California State Historic Preservation Office",
+            5
+        ],
+        "J.A. MacMahon": [
+            "U.S. Department of the Interior",
+            5
+        ],
+        "P. Crist": [
+            "U.S. Census Bureau",
+            2
+        ],
+        "R.J. LaCamera": [
+            "Bureau of Government Affairs",
+            1
+        ],
+        "Marthea Rountree": [
+            "State Engineer",
+            4
+        ],
+        "Angela M. Kordyak": [
+            "Office of the Attorney General",
+            3
+        ],
+        "Jason M. Bacigalupi": [
+            "State of Washington",
+            3
+        ],
+        "James Rubenstone": [
+            "International Atomic Energy Agency",
+            5
+        ],
+        "Olszewska-Wasiolek": [
+            "Southwest Research Institute",
+            5
+        ],
+        "R.M. Linden": [
+            "Bureau of Land Management",
+            4
+        ],
+        "Susan L. Durbin": [
+            "Nye County, Nevada",
+            4
+        ],
+        "J.E. Hinck": [
+            "American Nuclear Society",
+            5
+        ],
+        "A.M. Habte": [
+            "Eureka County Public Works",
+            1
+        ],
+        "T.D. Cook": [
+            "Native Community Action Council",
+            1
+        ],
+        "A.W. Harbaugh": [
+            "DOE/NNSA",
+            2
+        ],
+        "Julianne Polanco": [
+            "ACHP",
+            3
+        ],
+        "J. Prikryl": [
+            "U.S. Global Change Research Program",
+            2
+        ],
+        "H. Blanco": [
+            "Timbisha Shoshone Tribal Council",
+            2
+        ],
+        "Cindy Bladey": [
+            "US Environmental Protection Agency",
+            5
+        ],
+        "Alex S. Polonsky": [
+            "SNDWR",
+            2
+        ],
+        "J.A. Comstock": [
+            "National Nuclear Security Administration",
+            5
+        ],
+        "S. Auer": [
+            "National Nuclear Security Administration",
+            5
+        ],
+        "Timothy McCartin": [
+            "Timbisha Shoshone Tribal Council",
+            2
+        ],
+        "M. Creutzburg": [
+            "State Engineer",
+            4
+        ],
+        "C. Fredrick": [
+            "Nevada Agency for Nuclear Projects",
+            4
+        ],
+        "Eakin TE": [
+            "NDWR",
+            3
+        ],
+        "D.C. McMorran": [
+            "Southern Nevada Water Authority",
+            4
+        ],
+        "C.M. Menges": [
+            "Southwest Research Institute",
+            5
+        ],
+        "R.A. Thompson": [
+            "Fredericks Peebles & Morgan, LLP",
+            5
+        ],
+        "P. Gonzalez": [
+            "Nevada Division of State Lands",
+            2
+        ],
+        "Rebecca Palmer": [
+            "Nuclear Energy Institute, Inc.",
+            4
+        ],
+        "Steve Frishman": [
+            "Southern Nevada Water Authority",
+            4
+        ],
+        "J. Whitney": [
+            "Native Community Action Council",
+            1
+        ],
+        "R. Waskom": [
+            "USFWS",
+            5
+        ],
+        "D Rai": [
+            "Yucca Mountain Science Center",
+            3
+        ],
+        "B. Unnasch": [
+            "Clark Hill PLC",
+            3
+        ],
+        "J.F. Whelan": [
+            "California Attorney General\u2019s Office",
+            5
+        ],
+        "G. Garfin": [
+            "Egan, Fitzpatrick, Malsch & Lawrence, PLLC",
+            1
+        ],
+        "Marina Anderson": [
+            "ICRP",
+            1
+        ],
+        "Thomas C. Poindexter": [
+            "Morgan, Lewis & Bockius, LLP",
+            3
+        ],
+        "Cathleen Richards": [
+            "State Engineer",
+            4
+        ],
+        "Carol Gallagher": [
+            "National Association of Regulatory Utility Commissioners",
+            3
+        ],
+        "Annelle Wattas": [
+            "Nevada State Historic Preservation Office",
+            2
+        ],
+        "Andrew A. Fitz": [
+            "U.S. Fish and Wildlife Service",
+            1
+        ],
+        "W.L. Pratt": [
+            "Beatty Yucca Mountain Science Center",
+            5
+        ],
+        "G.K. Brackley": [
+            "Lincoln County, Nevada",
+            2
+        ],
+        "C. Fuller": [
+            "NWRPO",
+            2
+        ],
+        "J. Hak": [
+            "NRC Staff",
+            3
+        ],
+        "M.N. Machette": [
+            "California Attorney General\u2019s Office",
+            5
+        ],
+        "Charles J. Fitzpatrick": [
+            "Southwest Research Institute",
+            5
+        ],
+        "Linda Mathias": [
+            "National Park Service",
+            1
+        ],
+        "Martha S. Crosland": [
+            "NDWR",
+            3
+        ],
+        "M.E. Berry": [
+            "Environmental Protection Agency",
+            5
+        ],
+        "Quade": [
+            "Center for Nuclear Waste Regulatory Analyses",
+            4
+        ],
+        "H. Hamilton": [
+            "State of Nevada State Clearinghouse",
+            3
+        ],
+        "R.J. Laczniak": [
+            "ICRP",
+            1
+        ],
+        "T.M. Poston": [
+            "National Park Service",
+            1
+        ],
+        "K.L. Stetzenbach": [
+            "DOE/NNSA",
+            2
+        ],
+        "P. Chavez Jr.": [
+            "Death Valley National Park",
+            5
+        ],
+        "David A. Repka": [
+            "ICRP",
+            1
+        ],
+        "Sweetkind": [
+            "Pacific Northwest National Laboratory",
+            4
+        ],
+        "M.G. McDonald": [
+            "CNWRA",
+            5
+        ],
+        "S. Finger": [
+            "Bureau of Government Affairs",
+            1
+        ],
+        "J.L. Slate": [
+            "US Department of Energy",
+            1
+        ],
+        "E.A. Kalinina": [
+            "Council on Environmental Quality",
+            3
+        ],
+        "Arnold": [
+            "Southwest Research Institute",
+            5
+        ],
+        "Hardie": [
+            "NNSS",
+            4
+        ],
+        "Connie Lusedo": [
+            "National Park Service",
+            1
+        ],
+        "Hunt": [
+            "Alexander, Berkey, Williams, & Weathers, LLP",
+            1
+        ],
+        "Laczniak": [
+            "Mineral County Nuclear Projects Office",
+            5
+        ],
+        "Amy Minor": [
+            "Nevada Division of Water Resources",
+            3
+        ],
+        "Patrick Ragains": [
+            "Nevada Attorney General",
+            5
+        ],
+        "Justet": [
+            "Intertech Services Corporation",
+            1
+        ],
+        "V.E. Hodge": [
+            "Office of the State Engineer, State of Nevada",
+            3
+        ],
+        "Nicholas P. DiNunzio": [
+            "US Environmental Protection Agency",
+            5
+        ],
+        "Garfin et al": [
+            "University of Nevada, Las Vegas",
+            2
+        ],
+        "Dr. Mike Baughman": [
+            "Clark Hill PLC",
+            3
+        ],
+        "T. Piechota": [
+            "USGS",
+            2
+        ],
+        "Deborah Waiting": [
+            "Bureau of Land Management",
+            4
+        ],
+        "Anne W. Cottingham": [
+            "Council on Environmental Quality",
+            3
+        ],
+        "Curtis G. Berkey": [
+            "Timbisha Shoshone",
+            4
+        ],
+        "D. Theobald": [
+            "U.S. Nuclear Regulatory Commission",
+            4
+        ],
+        "Lewis Csedrik": [
+            "University of Nevada, Reno",
+            1
+        ],
+        "J.M. Omernik": [
+            "Nye County, Nevada",
+            4
+        ],
+        "Josephine Piccone": [
+            "Nye Co. Nuclear Waste Repository Project Office",
+            5
+        ],
+        "William Boyle": [
+            "Egan, Fitzpatrick, Malsch & Lawrence, PLLC",
+            1
+        ],
+        "Darcie L. Houck": [
+            "U.S. Global Change Research Program",
+            2
+        ],
+        "M.A. Chatigny": [
+            "Nuclear Energy Institute, Inc.",
+            4
+        ],
+        "K.E. Vargas": [
+            "State of Nevada Division of Water Resources",
+            2
+        ],
+        "M.D. Mifflin": [
+            "Inyo Co Yucca Mountain Repository Assessment Office",
+            5
+        ],
+        "T.R. McKay": [
+            "SEIS",
+            4
+        ],
+        "Reynolds et al": [
+            "Mineral County Nuclear Projects Office",
+            5
+        ],
+        "X. Zhou": [
+            "SHPO",
+            2
+        ],
+        "Mabey": [
+            "Native Community Action Council",
+            1
+        ],
+        "D.K. Kreamer": [
+            "Winston & Strawn, LLP",
+            5
+        ],
+        "Michael Berger": [
+            "Nye County",
+            5
+        ],
+        "Marta Adams": [
+            "U.S. Nuclear Regulatory Commission",
+            4
+        ],
+        "D\u2019Agnese": [
+            "Inter-Tribal Council of Nevada",
+            1
+        ],
+        "F.A. D\u2019Agnese": [
+            "NNSA",
+            2
+        ],
+        "Brian Lusher": [
+            "Council on Environmental Quality",
+            3
+        ],
+        "Ronald Damele": [
+            "U.S. Department of the Interior",
+            5
+        ],
+        "Taylor": [
+            "University of Nevada, Las Vegas",
+            2
+        ],
+        "R.K. Hall": [
+            "Nuclear Waste Project Office",
+            4
+        ],
+        "G. Kittel": [
+            "Nye County, Nevada",
+            4
+        ],
+        "Hinck et al": [
+            "USFWS",
+            5
+        ],
+        "Linda Mathius": [
+            "Congress",
+            4
+        ],
+        "R.L. Reynolds": [
+            "NWOP Consulting, Inc.",
+            3
+        ],
+        "Randall Fedors": [
+            "Nuclear Energy Institute, Inc.",
+            4
+        ],
+        "Christine Pineda": [
+            "Esmeralda County Repository Oversight Program",
+            1
+        ],
+        "James Bennett McRae": [
+            "Armstrong Teasdale, LLP",
+            4
+        ],
+        "John M. Peebles": [
+            "State of Nevada Division of Water Resources",
+            2
+        ],
+        "George Gholson": [
+            "Akerman Senterfitt, LLP",
+            4
+        ],
+        "J.B. Paces": [
+            "US Geological Survey",
+            2
+        ],
+        "E.B. Petersen": [
+            "University of Nevada, Las Vegas",
+            2
+        ],
+        "Brian W. Hembacher": [
+            "U.S. Environmental Protection Agency",
+            3
+        ],
+        "A.J. Woods": [
+            "Egan, Fitzpatrick, Malsch & Lawrence, PLLC",
+            1
+        ],
+        "Moreo": [
+            "Mineral County Nuclear Projects Office",
+            5
+        ],
+        "Diane Curran": [
+            "Inyo Co Yucca Mountain Repository Assessment Office",
+            5
+        ],
+        "B.E. Sample": [
+            "Nevada Department of Health and Human Services",
+            3
+        ],
+        "Stannard": [
+            "Harmon, Curran, Spielberg, & Eisenberg, LLP",
+            3
+        ],
+        "P. Comer": [
+            "Nye County Nuclear Waste Repository Project Office",
+            4
+        ],
+        "G. Helseth": [
+            "Department of Energy",
+            1
+        ],
+        "C.J. Fridrich": [
+            "Nevada Division of Water Resources",
+            3
+        ],
+        "R.W. Puls": [
+            "Bureau of Land Management",
+            4
+        ],
+        "Jay E. Silberg": [
+            "Native Community Action Council",
+            1
+        ],
+        "J.C. Yount": [
+            "Nye County",
+            5
+        ],
+        "J.D. Morefield": [
+            "Nevada Division of Water Resources",
+            3
+        ],
+        "G. O\u2019Brien": [
+            "University of Minnesota Press",
+            2
+        ],
+        "Glancy": [
+            "Advisory Council on Historic Preservation",
+            4
+        ],
+        "John Pawlak": [
+            "DVRFS",
+            5
+        ],
+        "Miriam Juckett": [
+            "Intertech Services Corporation",
+            1
+        ],
+        "Jonathan C. Thompson": [
+            "Sandia National Laboratories",
+            2
+        ],
+        "George McCorkell": [
+            "Nevada Attorney General",
+            5
+        ],
+        "Celeste Sandoval": [
+            "Intertech Services Corporation",
+            1
+        ],
+        "Reynolds": [
+            "California State Historic Preservation Office",
+            5
+        ],
+        "T.C. Richmond": [
+            "State of Nevada State Clearinghouse",
+            3
+        ],
+        "D. Tillitt": [
+            "Inter-Tribal Council of Nevada",
+            1
+        ],
+        "L. Kutner": [
+            "University of Minnesota Press",
+            2
+        ],
+        "E.J. Antonio": [
+            "NDWR",
+            3
+        ],
+        "D.W. Smith": [
+            "Nevada Agency for Nuclear Projects",
+            4
+        ],
+        "Ellen C. Ginsberg": [
+            "California State Historic Preservation Office",
+            5
+        ],
+        "Raphael P. Kuyler": [
+            "Pillsbury Winthrop Shaw Pittman, LLP",
+            4
+        ],
+        "Don L. Keskey": [
+            "Environmental Protection Agency",
+            5
+        ],
+        "Bushman": [
+            "Mineral County Nuclear Projects Office",
+            5
+        ],
+        "S.A. Bryce": [
+            "Native Community Action Council",
+            1
+        ],
+        "G.M. O\u2019Brien": [
+            "Armstrong Teasdale, LLP",
+            4
+        ],
+        "C.A. San Juan": [
+            "Nuclear Waste Project Office",
+            4
+        ],
+        "J.P. Bradbury": [
+            "University of Nevada, Reno",
+            1
+        ],
+        "D.I. Stannard": [
+            "Beatty Yucca Mountain Science Center",
+            5
+        ],
+        "R.L. Patterson": [
+            "Armstrong Teasdale, LLP",
+            4
+        ],
+        "L.A. Hardie": [
+            "SNDWR",
+            2
+        ],
+        "D. Eggert": [
+            "State of Washington",
+            3
+        ],
+        "W. Boyle": [
+            "SHPO",
+            2
+        ],
+        "M. Bushman": [
+            "Nevada Agency for Nuclear Projects",
+            4
+        ],
+        "Frank A. Putzu": [
+            "University of Minnesota Press",
+            2
+        ],
+        "William A. Horin": [
+            "Nevada Division of State Lands",
+            2
+        ],
+        "M. King": [
+            "California State Historic Preservation Office",
+            5
+        ],
+        "Ian Zabarte": [
+            "University of Nevada, Las Vegas",
+            2
+        ],
+        "Robert F. List": [
+            "Sandia National Laboratories",
+            2
+        ],
+        "G.W. Yohe": [
+            "Nye Co. Nuclear Waste Repository Project Office",
+            5
+        ],
+        "L. Justet": [
+            "State Historic Preservation Office",
+            5
+        ],
+        "S.A. Mahan": [
+            "US Department of Energy",
+            1
+        ],
+        "L. Lapidus": [
+            "National Nuclear Security Administration",
+            5
+        ],
+        "Skip Canfield": [
+            "Clark Hill PLC",
+            3
+        ],
+        "Mary Louise Wagner": [
+            "SNWA",
+            2
+        ],
+        "Eisler R": [
+            "NRC",
+            3
+        ],
+        "Douglas S": [
+            "NRC",
+            3
+        ],
+        "D.R. Mabey": [
+            "Timbisha Shoshone Tribe",
+            2
+        ],
+        "Robert M. Andersen": [
+            "Morgan, Lewis & Bockius, LLP",
+            3
+        ],
+        "Elizabeth Enriquez": [
+            "Nevada Attorney General",
+            5
+        ],
+        "G.W. Suter II": [
+            "CNWRA",
+            5
+        ],
+        "M.C. Reheis": [
+            "US Nuclear Regulatory Commission",
+            1
+        ],
+        "H. Lee Overton": [
+            "Office of Nuclear Material Safety and Safeguards",
+            5
+        ],
+        "S.C. Porter": [
+            "US Nuclear Regulatory Commission",
+            1
+        ],
+        "Beck, D.A.": [
+            "State of Washington",
+            3
+        ],
+        "C.D. Palmer": [
+            "DOE",
+            3
+        ],
+        "Todd R. Bowers": [
+            "Akerman Senterfitt, LLP",
+            4
+        ],
+        "Donald J. Silverman": [
+            "Geological Society of America",
+            5
+        ],
+        "Jin-Ping Gwo": [
+            "Prairie Island Indian Community",
+            2
+        ],
+        "D. Tingey": [
+            "California Energy Commission",
+            4
+        ],
+        "Thomas R. Gottshall": [
+            "Timbisha Shoshone Tribal Council",
+            2
+        ],
+        "Rovianne A. Leigh": [
+            "Geological Society of America",
+            5
+        ],
+        "Abigail Johnson": [
+            "Office of Nuclear Material Safety and Safeguards",
+            5
+        ],
+        "P.E. Elliot": [
+            "U.S. Fish and Wildlife Service",
+            1
+        ],
+        "G. Linder": [
+            "SHPO",
+            2
+        ],
+        "Belcher": [
+            "Nevada Agency for Nuclear Projects",
+            4
+        ],
+        "B.W. Arnold": [
+            "Morgan, Lewis & Bockius, LLP",
+            3
+        ],
+        "Susie Skarl": [
+            "U.S. Global Change Research Program",
+            2
+        ],
+        "Bret O. Whipple": [
+            "US Geological Survey",
+            2
+        ],
+        "R. Fulton": [
+            "National Association of Regulatory Utility Commissioners",
+            3
+        ],
+        "Timothy J.V. Walsh": [
+            "State Engineer",
+            4
+        ],
+        "Theodore Beutel": [
+            "NWRPO",
+            2
+        ],
+        "E. Little": [
+            "State of Nevada Department of Conservation and Natural Resources",
+            4
+        ],
+        "Robert Halstead": [
+            "Kolesar & Leathman",
+            2
+        ],
+        "Eakin et al": [
+            "State Historic Preservation Office",
+            5
+        ]
+    },
+    "organization_distances": {
+        "Native Community Action Council": 1,
+        "National Nuclear Security Administration": 5,
+        "University of Nevada, Reno": 1,
+        "Office of the State Engineer, State of Nevada": 3,
+        "Kolesar & Leathman": 2,
+        "Clark Hill PLC": 3,
+        "Bureau of Land Management": 4,
+        "CNWRA": 5,
+        "California State Historic Preservation Office": 5,
+        "CEQ": 4,
+        "Fredericks Peebles & Morgan, LLP": 5,
+        "U.S. Fish and Wildlife Service": 1,
+        "NDWR": 3,
+        "EPA": 2,
+        "Alexander, Berkey, Williams, & Weathers, LLP": 1,
+        "Eureka County Public Works": 1,
+        "Nevada Division of State Lands": 2,
+        "Yucca Mountain Public Reading Room": 5,
+        "Haynesworth Sinkler Boyd, PA": 3,
+        "BLM": 4,
+        "NDEP": 3,
+        "Pacific Northwest National Laboratory": 4,
+        "Nevada State Historic Preservation Office": 2,
+        "U.S. Nuclear Regulatory Commission": 4,
+        "Harmon, Curran, Spielberg, & Eisenberg, LLP": 3,
+        "US Court of Appeals for the District of Columbia Circuit": 1,
+        "DOE/NNSA": 2,
+        "SHPO": 2,
+        "California Energy Commission": 4,
+        "University of Minnesota Press": 2,
+        "Sandia National Laboratories": 2,
+        "Clark County, Nevada": 3,
+        "Yucca Mountain Science Center": 3,
+        "Congress": 4,
+        "Nye County": 5,
+        "Nye County Nuclear Waste Repository Project Office": 4,
+        "Pillsbury Winthrop Shaw Pittman, LLP": 4,
+        "Inter-Tribal Council of Nevada": 1,
+        "Nuclear Energy Institute, Inc.": 4,
+        "State of Nevada Department of Conservation and Natural Resources": 4,
+        "NWOP Consulting, Inc.": 3,
+        "International Atomic Energy Agency": 5,
+        "Timbisha Shoshone Tribe": 2,
+        "American Nuclear Society": 5,
+        "US Environmental Protection Agency": 5,
+        "Pahrump Yucca Mountain Science Center": 1,
+        "NRC Staff": 3,
+        "U.S. Department of the Interior": 5,
+        "Public Law Resource Center, PLLC": 1,
+        "Death Valley National Park": 5,
+        "Armstrong Teasdale, LLP": 4,
+        "US Census Bureau": 5,
+        "DVRFS": 5,
+        "Eureka County Office of the District Attorney": 5,
+        "NRC staff": 4,
+        "Center for Nuclear Waste Regulatory Analyses": 4,
+        "U.S. Census Bureau": 2,
+        "Inyo County, California": 3,
+        "National Association of Regulatory Utility Commissioners": 3,
+        "Southwest Research Institute": 5,
+        "State of Washington": 3,
+        "Atomic Safety and Licensing Board": 2,
+        "DOE": 3,
+        "Morgan, Lewis & Bockius, LLP": 3,
+        "Bureau of Government Affairs": 1,
+        "Intertech Services Corporation": 1,
+        "Prairie Island Indian Community": 2,
+        "Timbisha Shoshone Tribal Council": 2,
+        "Egan, Fitzpatrick, Malsch & Lawrence, PLLC": 1,
+        "Office of the Attorney General": 3,
+        "US Geological Survey": 2,
+        "Esmeralda County Repository Oversight Program": 1,
+        "State Historic Preservation Office": 5,
+        "SNL": 2,
+        "NNSA": 2,
+        "Nuclear Waste Project Office": 4,
+        "NNSS": 4,
+        "U.S. Geological Survey": 4,
+        "Beatty Yucca Mountain Science Center": 5,
+        "Ash Meadows": 4,
+        "University of Nevada, Las Vegas": 2,
+        "Beatty low-level waste site": 5,
+        "Nye County, Nevada": 4,
+        "Southern Nevada Water Authority": 4,
+        "Nye Co. Nuclear Waste Repository Project Office": 5,
+        "US Nuclear Regulatory Commission": 1,
+        "ACHP": 3,
+        "Department of Interior": 2,
+        "Akerman Senterfitt, LLP": 4,
+        "Nevada Attorney General": 5,
+        "State of Nevada Division of Water Resources": 2,
+        "ICRP": 1,
+        "Nevada Department of Health and Human Services": 3,
+        "State of Nevada State Clearinghouse": 3,
+        "Geological Society of America": 5,
+        "Winston & Strawn, LLP": 5,
+        "U.S. Environmental Protection Agency": 3,
+        "Nevada Agency for Nuclear Projects": 4,
+        "SEIS": 4,
+        "Nevada SHPO": 1,
+        "Davidson & Lindemann, PA": 3,
+        "US Department of Energy": 1,
+        "USGS": 2,
+        "NWRPO": 2,
+        "Department of Energy": 1,
+        "Nuclear Regulatory Commission": 2,
+        "Inyo Co Yucca Mountain Repository Assessment Office": 5,
+        "Council on Environmental Quality": 3,
+        "Naval Sea Systems Command": 4,
+        "Timbisha Shoshone": 4,
+        "California Attorney General\u2019s Office": 5,
+        "U.S. Department of Energy": 3,
+        "California Department of Justice": 2,
+        "Advisory Council on Historic Preservation": 4,
+        "Indian Country Today": 4,
+        "Environmental Protection Agency": 5,
+        "Nevada Division of Water Resources": 3,
+        "NRC": 3,
+        "Lincoln County, Nevada": 2,
+        "Mineral County Nuclear Projects Office": 5,
+        "National Park Service": 1,
+        "Office of Nuclear Material Safety and Safeguards": 5,
+        "U.S. Global Change Research Program": 2,
+        "SNDWR": 2,
+        "State Engineer": 4,
+        "USFWS": 5,
+        "SNWA": 2
+    }
+}

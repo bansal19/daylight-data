@@ -1,0 +1,371 @@
+[
+    {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+            "Project": {
+                "id": "",
+                "name": "Panoche Valley Solar Facility",
+                "location": "San Benito County, CA",
+                "date": "December 2015",
+                "summary": "",
+                "capacity": "",
+                "technology": ""
+            },
+            "Person": {
+                "name": "",
+                "email": "",
+                "phone": "",
+                "role": ""
+            },
+            "Organizations": [
+                {
+                    "name": "US Fish & Wildlife Service",
+                    "type": "Federal",
+                    "acronym": "FWS",
+                    "fullName": "United States Fish and Wildlife Service",
+                    "role": "NEPA Lead Federal Agency",
+                    "isApplicant": false
+                }
+            ],
+            "Comment": {
+                "id": "",
+                "content": "",
+                "date": "",
+                "sentiment": ""
+            }
+        },
+        "required": [
+            "Project",
+            "Person",
+            "Organizations",
+            "Comment"
+        ]
+    },
+    {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+            "Project": {
+                "type": "object",
+                "properties": {
+                    "id": "SPN-2009-00443",
+                    "name": "Panoche Valley Solar Facility",
+                    "location": "San Benito County, California",
+                    "date": "",
+                    "summary": "The Panoche Valley Solar Facility is a proposed 247 megawatt photovoltaic solar generating facility situated in eastern unincorporated San Benito County, California. The project involves jurisdictional waters of the U.S. and requires a Section 404 Clean Water Act permit. The facility includes ground-mounted photovoltaic modules, an electrical collection system, and a substation, with generated electricity sold to Southern California Edison.",
+                    "capacity": "247 megawatts",
+                    "technology": "Photovoltaic solar generating facility"
+                },
+                "required": [
+                    "id",
+                    "name",
+                    "location",
+                    "summary",
+                    "capacity",
+                    "technology"
+                ]
+            },
+            "Person": {
+                "type": "object",
+                "properties": {
+                    "name": "Lisa Gibson",
+                    "email": "Lisa.M.Gibson2@usace.army.mil",
+                    "phone": "(916) 557-5288",
+                    "role": "Regulatory Division, US Army Corps of Engineers, Sacramento District"
+                },
+                "required": [
+                    "name",
+                    "email",
+                    "phone",
+                    "role"
+                ]
+            },
+            "Organizations": {
+                "type": "array",
+                "items": [
+                    {
+                        "name": "US Army Corps of Engineers",
+                        "type": "Federal",
+                        "acronym": "USACE",
+                        "fullName": "United States Army Corps of Engineers",
+                        "role": "Lead Federal Agency",
+                        "isApplicant": false
+                    },
+                    {
+                        "name": "US Fish and Wildlife Service",
+                        "type": "Federal",
+                        "acronym": "USFWS",
+                        "fullName": "United States Fish and Wildlife Service",
+                        "role": "Cooperating Agency",
+                        "isApplicant": false
+                    },
+                    {
+                        "name": "Panoche Valley Solar, LLC",
+                        "type": "Private",
+                        "acronym": "",
+                        "fullName": "Panoche Valley Solar, LLC",
+                        "role": "Applicant",
+                        "isApplicant": true
+                    },
+                    {
+                        "name": "Pacific Gas and Electric Company",
+                        "type": "Private",
+                        "acronym": "PG&E",
+                        "fullName": "Pacific Gas and Electric Company",
+                        "role": "Contractor",
+                        "isApplicant": false
+                    },
+                    {
+                        "name": "Southern California Edison",
+                        "type": "Private",
+                        "acronym": "",
+                        "fullName": "Southern California Edison",
+                        "role": "Buyer",
+                        "isApplicant": false
+                    }
+                ]
+            },
+            "Comment": {
+                "type": "object",
+                "properties": {
+                    "id": "",
+                    "content": "",
+                    "date": "",
+                    "sentiment": ""
+                }
+            }
+        },
+        "required": [
+            "Project",
+            "Person",
+            "Organizations",
+            "Comment"
+        ]
+    },
+    {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+            "Project": {
+                "type": "object",
+                "properties": {
+                    "id": "SPN-2009-00443",
+                    "name": "",
+                    "location": "",
+                    "date": "",
+                    "summary": "",
+                    "capacity": "",
+                    "technology": ""
+                },
+                "required": [
+                    "id",
+                    "name",
+                    "location",
+                    "summary",
+                    "capacity",
+                    "technology"
+                ]
+            },
+            "Person": {
+                "type": "object",
+                "properties": {
+                    "name": "Lisa Gibson",
+                    "email": "Lisa.M.Gibson2@usace.army.mil",
+                    "phone": "",
+                    "role": "Regulatory Body Representative"
+                },
+                "required": [
+                    "name",
+                    "email",
+                    "phone",
+                    "role"
+                ]
+            },
+            "Organizations": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "name": "United States Army Corps of Engineers",
+                        "type": "Federal",
+                        "acronym": "USACE",
+                        "fullName": "United States Army Corps of Engineers",
+                        "role": "Regulatory Body",
+                        "isApplicant": false
+                    },
+                    "required": [
+                        "name",
+                        "type",
+                        "role",
+                        "isApplicant",
+                        "acronym",
+                        "fullName"
+                    ]
+                }
+            },
+            "Comment": {
+                "type": "object",
+                "properties": {
+                    "id": "",
+                    "content": "",
+                    "date": "",
+                    "sentiment": ""
+                }
+            }
+        },
+        "required": [
+            "Project",
+            "Person",
+            "Organizations",
+            "Comment"
+        ]
+    },
+    {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+            "Project": {
+                "type": "object",
+                "properties": {
+                    "id": "Panoche Valley Solar Facility",
+                    "name": "Panoche Valley Solar Facility",
+                    "location": "",
+                    "date": "December 2015",
+                    "summary": "The document is the Final Environmental Impact Statement (EIS) for the Panoche Valley Solar Facility, detailing project description, alternatives, environmental impacts, agency and public coordination, and the scoping process.",
+                    "capacity": "",
+                    "technology": "Solar"
+                },
+                "required": [
+                    "id",
+                    "name",
+                    "location",
+                    "summary",
+                    "capacity",
+                    "technology"
+                ]
+            },
+            "Person": {
+                "type": "object",
+                "properties": {
+                    "name": "",
+                    "email": "",
+                    "phone": "",
+                    "role": ""
+                },
+                "required": [
+                    "name",
+                    "email",
+                    "phone",
+                    "role"
+                ]
+            },
+            "Organizations": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "name": "United States Army Corps of Engineers",
+                        "type": "Federal",
+                        "acronym": "USACE",
+                        "fullName": "United States Army Corps of Engineers",
+                        "role": "Regulatory Body",
+                        "isApplicant": false
+                    },
+                    "required": [
+                        "name",
+                        "type",
+                        "role",
+                        "isApplicant",
+                        "acronym",
+                        "fullName"
+                    ]
+                }
+            },
+            "Comment": {
+                "type": "object",
+                "properties": {
+                    "id": "",
+                    "content": "",
+                    "date": "",
+                    "sentiment": ""
+                }
+            }
+        },
+        "required": [
+            "Project",
+            "Person",
+            "Organizations",
+            "Comment"
+        ]
+    },
+    {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+            "Project": {
+                "type": "object",
+                "properties": {
+                    "id": "",
+                    "name": "Panoche Valley Solar Facility",
+                    "location": "Panoche Valley",
+                    "date": "December 2015",
+                    "summary": "The document appears to be a Final Environmental Impact Statement (EIS) related to the Panoche Valley Solar Facility, covering measures to reduce project impacts, mitigation lands, telecommunications upgrades, various alternatives, and the affected environment and environmental consequences.",
+                    "capacity": "",
+                    "technology": "Solar"
+                },
+                "required": [
+                    "id",
+                    "name",
+                    "location",
+                    "summary",
+                    "capacity",
+                    "technology"
+                ]
+            },
+            "Person": {
+                "type": "object",
+                "properties": {
+                    "name": "",
+                    "email": "",
+                    "phone": "",
+                    "role": ""
+                },
+                "required": [
+                    "name",
+                    "email",
+                    "phone",
+                    "role"
+                ]
+            },
+            "Organizations": {
+                "type": "array",
+                "items": [
+                    {
+                        "name": "PG&E",
+                        "type": "Private",
+                        "acronym": "PG&E",
+                        "fullName": "Pacific Gas and Electric Company",
+                        "role": "Telecommunications Upgrades",
+                        "isApplicant": false
+                    }
+                ]
+            },
+            "Comment": {
+                "type": "object",
+                "properties": {
+                    "id": "",
+                    "content": "",
+                    "date": "",
+                    "sentiment": ""
+                }
+            }
+        },
+        "required": [
+            "Project",
+            "Person",
+            "Organizations",
+            "Comment"
+        ]
+    }
+]
